@@ -1,0 +1,182 @@
+{
+    "id": "104",
+    "tag": "construction_repair",
+    "title": "Строительство и ремонт",
+    "categories": [
+        {
+            "id": "658",
+            "style": "prop_accessories_for_power_tools",
+            "href": "//www.holodilnik.ru/repair/accessories_for_power_tools/",
+            "title": "Аксессуары для электроинструментов",
+            "items": []
+        },
+        {
+            "id": "409",
+            "style": "prop_disk_saws",
+            "href": "//www.holodilnik.ru/repair/disk_saws/",
+            "title": "Дисковые (циркулярные) пилы",
+            "items": []
+        },
+        {
+            "id": "386",
+            "style": "prop_drills_and_screwdrivers",
+            "href": "//www.holodilnik.ru/repair/drills_and_screwdrivers/",
+            "title": "Дрели и шуруповерты",
+            "items": []
+        },
+        {
+            "id": "535",
+            "style": "prop_measuring_tools",
+            "href": "//www.holodilnik.ru/repair/measuring_tools/",
+            "title": "Измерительные инструменты",
+            "items": []
+        },
+        {
+            "id": "394",
+            "style": "prop_hot_air_guns",
+            "href": "//www.holodilnik.ru/repair/hot_air_guns/",
+            "title": "Клеевые пистолеты",
+            "items": []
+        },
+        {
+            "id": "1010",
+            "style": "prop_keys_and_screwdrivers",
+            "href": "//www.holodilnik.ru/repair/keys_and_screwdrivers/",
+            "title": "Ключи и отвертки",
+            "items": []
+        },
+        {
+            "id": "873",
+            "style": "prop_compressors",
+            "href": "//www.holodilnik.ru/repair/compressors/",
+            "title": "Компрессоры",
+            "items": []
+        },
+        {
+            "id": "1006",
+            "style": "prop_stepladders",
+            "href": "//www.holodilnik.ru/repair/stepladders/",
+            "title": "Лестницы и стремянки",
+            "items": []
+        },
+        {
+            "id": "389",
+            "style": "prop_fretsaws",
+            "href": "//www.holodilnik.ru/repair/fretsaws/",
+            "title": "Лобзики",
+            "items": []
+        },
+        {
+            "id": "966",
+            "style": "prop_sets_of_hand_tools",
+            "href": "//www.holodilnik.ru/repair/sets_of_hand_tools/",
+            "title": "Наборы ручных инструментов",
+            "items": []
+        },
+        {
+            "id": "1002",
+            "style": "prop_apparatus_for_welding_pipes",
+            "href": "//www.holodilnik.ru/repair/apparatus_for_welding_pipes/",
+            "title": "Паяльное оборудование",
+            "items": []
+        },
+        {
+            "id": "387",
+            "style": "prop_perforators",
+            "href": "//www.holodilnik.ru/repair/perforators/",
+            "title": "Перфораторы",
+            "items": []
+        },
+        {
+            "id": "604",
+            "style": "prop_straight_grinding_machines",
+            "href": "//www.holodilnik.ru/repair/straight_grinding_machines/",
+            "title": "Прямошлифовальные машины",
+            "items": []
+        },
+        {
+            "id": "441",
+            "style": "prop_gear",
+            "href": "//www.holodilnik.ru/repair/gear/",
+            "title": "Расходные материалы для электроинструментов",
+            "items": []
+        },
+        {
+            "id": "1012",
+            "style": "prop_cutting_and_sawing_tools",
+            "href": "//www.holodilnik.ru/repair/cutting_and_sawing_tools/",
+            "title": "Режущий и пильный инструмент",
+            "items": []
+        },
+        {
+            "id": "388",
+            "style": "prop_planes",
+            "href": "//www.holodilnik.ru/repair/planes/",
+            "title": "Рубанки",
+            "items": []
+        },
+        {
+            "id": "425",
+            "style": "prop_welders",
+            "href": "//www.holodilnik.ru/repair/welders/",
+            "title": "Сварочные аппараты",
+            "items": []
+        },
+        {
+            "id": "1008",
+            "style": "prop_bench_tool",
+            "href": "//www.holodilnik.ru/repair/bench_tool/",
+            "title": "Слесарный инструмент",
+            "items": []
+        },
+        {
+            "id": "1014",
+            "style": "prop_joiners_tools",
+            "href": "//www.holodilnik.ru/repair/joiners_tools/",
+            "title": "Столярный инструмент",
+            "items": []
+        },
+        {
+            "id": "579",
+            "style": "prop_construction_mixers",
+            "href": "//www.holodilnik.ru/repair/construction_mixers/",
+            "title": "Строительные миксеры",
+            "items": []
+        },
+        {
+            "id": "420",
+            "style": "prop_construction_vacuum_cleaners",
+            "href": "//www.holodilnik.ru/repair/construction_vacuum_cleaners/",
+            "title": "Строительные пылесосы",
+            "items": []
+        },
+        {
+            "id": "405",
+            "style": "prop_facing_saws",
+            "href": "//www.holodilnik.ru/repair/facing_saws/",
+            "title": "Торцовочные пилы",
+            "items": []
+        },
+        {
+            "id": "392",
+            "style": "prop_ushm",
+            "href": "//www.holodilnik.ru/repair/ushm/",
+            "title": "Угловые шлифовальные машины (болгарки)",
+            "items": []
+        },
+        {
+            "id": "978",
+            "style": "prop_tool_storage",
+            "href": "//www.holodilnik.ru/repair/tool_storage/",
+            "title": "Хранение инструмента",
+            "items": []
+        },
+        {
+            "id": "406",
+            "style": "prop_chain_saws",
+            "href": "//www.holodilnik.ru/repair/chain_saws/",
+            "title": "Цепные пилы",
+            "items": []
+        }
+    ]
+}

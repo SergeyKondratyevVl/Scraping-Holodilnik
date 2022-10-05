@@ -1,0 +1,84 @@
+{
+    "id": "144",
+    "tag": "refrigerator",
+    "title": "Холодильники",
+    "categories": [
+        {
+            "id": "228",
+            "style": "prop_automobile_refrigerators",
+            "href": "//www.holodilnik.ru/repair/automobile_refrigerators/",
+            "title": "Автомобильные холодильники",
+            "items": []
+        },
+        {
+            "id": "326",
+            "style": "prop_refrigerator_acessories",
+            "href": "//www.holodilnik.ru/repair/refrigerator_acessories/",
+            "title": "Аксессуары и сопутствующие товары для холодильников",
+            "items": []
+        },
+        {
+            "id": "282",
+            "style": "prop_chamber_for_wine",
+            "href": "//www.holodilnik.ru/repair/chamber_for_wine/",
+            "title": "Винные шкафы",
+            "items": []
+        },
+        {
+            "id": "152",
+            "style": "prop_two_chambered_refrigerators",
+            "href": "//www.holodilnik.ru/repair/two_chambered_refrigerators/",
+            "title": "Двухкамерные холодильники",
+            "items": []
+        },
+        {
+            "id": "358",
+            "style": "prop_climatic_cabinets",
+            "href": "//www.holodilnik.ru/repair/climatic_cabinets/",
+            "title": "Климатические шкафы",
+            "items": []
+        },
+        {
+            "id": "359",
+            "style": "prop_multichambered_refrigerators",
+            "href": "//www.holodilnik.ru/repair/multichambered_refrigerators/",
+            "title": "Многокамерные холодильники",
+            "items": []
+        },
+        {
+            "id": "153",
+            "style": "prop_freezing_chambers",
+            "href": "//www.holodilnik.ru/repair/freezing_chambers/",
+            "title": "Морозильники (морозильные камеры)",
+            "items": []
+        },
+        {
+            "id": "238",
+            "style": "prop_chests",
+            "href": "//www.holodilnik.ru/repair/chests/",
+            "title": "Морозильные лари",
+            "items": []
+        },
+        {
+            "id": "225",
+            "style": "prop_one_chamber_refrigerators",
+            "href": "//www.holodilnik.ru/repair/one_chamber_refrigerators/",
+            "title": "Однокамерные холодильники",
+            "items": []
+        },
+        {
+            "id": "229",
+            "style": "prop_refrigerators_side_by_side",
+            "href": "//www.holodilnik.ru/repair/refrigerators_side_by_side/",
+            "title": "Холодильники Side by Side",
+            "items": []
+        },
+        {
+            "id": "237",
+            "style": "prop_show_refrigerators",
+            "href": "//www.holodilnik.ru/repair/show_refrigerators/",
+            "title": "Холодильные витрины",
+            "items": []
+        }
+    ]
+}

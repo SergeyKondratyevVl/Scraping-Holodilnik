@@ -1,0 +1,182 @@
+{
+    "id": "148",
+    "tag": "domestic",
+    "title": "Техника для дома",
+    "categories": [
+        {
+            "id": "460",
+            "style": "prop_accessories_for_vacuum_cleaners",
+            "href": "//www.holodilnik.ru/repair/accessories_for_vacuum_cleaners/",
+            "title": "Аксессуары для техники для уборки",
+            "items": []
+        },
+        {
+            "id": "502",
+            "style": "prop_accessories_for_technique_for_clothing",
+            "href": "//www.holodilnik.ru/repair/accessories_for_technique_for_clothing/",
+            "title": "Аксессуары для техники по уходу за одеждой",
+            "items": []
+        },
+        {
+            "id": "573",
+            "style": "prop_supply_units",
+            "href": "//www.holodilnik.ru/repair/supply_units/",
+            "title": "Блоки питания и аккумуляторы",
+            "items": []
+        },
+        {
+            "id": "553",
+            "style": "prop_video_intercom",
+            "href": "//www.holodilnik.ru/repair/video_intercom/",
+            "title": "Видеодомофоны",
+            "items": []
+        },
+        {
+            "id": "552",
+            "style": "prop_videowatching",
+            "href": "//www.holodilnik.ru/repair/videowatching/",
+            "title": "Видеонаблюдение",
+            "items": []
+        },
+        {
+            "id": "365",
+            "style": "prop_iron_pad",
+            "href": "//www.holodilnik.ru/repair/iron_pad/",
+            "title": "Гладильные доски",
+            "items": []
+        },
+        {
+            "id": "1248",
+            "style": "prop_sensors",
+            "href": "//www.holodilnik.ru/repair/sensors/",
+            "title": "Датчики",
+            "items": []
+        },
+        {
+            "id": "559",
+            "style": "prop_electro_mechanical_locks",
+            "href": "//www.holodilnik.ru/repair/electro_mechanical_locks/",
+            "title": "Замки электромеханические",
+            "items": []
+        },
+        {
+            "id": "982",
+            "style": "prop_accessories_for_cleaning",
+            "href": "//www.holodilnik.ru/repair/accessories_for_cleaning/",
+            "title": "Инвентарь для уборки",
+            "items": []
+        },
+        {
+            "id": "1246",
+            "style": "prop_cameras",
+            "href": "//www.holodilnik.ru/repair/cameras/",
+            "title": "Камеры",
+            "items": []
+        },
+        {
+            "id": "1256",
+            "style": "prop_lamps_led_strips_smart",
+            "href": "//www.holodilnik.ru/repair/lamps_led_strips_smart/",
+            "title": "Лампы, светодиодные ленты",
+            "items": []
+        },
+        {
+            "id": "515",
+            "style": "prop_clears_steam_for_clothing",
+            "href": "//www.holodilnik.ru/repair/clears_steam_for_clothing/",
+            "title": "Отпариватели для одежды",
+            "items": []
+        },
+        {
+            "id": "275",
+            "style": "prop_iron_system",
+            "href": "//www.holodilnik.ru/repair/iron_system/",
+            "title": "Парогенераторы",
+            "items": []
+        },
+        {
+            "id": "276",
+            "style": "prop_clears_steam",
+            "href": "//www.holodilnik.ru/repair/clears_steam/",
+            "title": "Пароочистители",
+            "items": []
+        },
+        {
+            "id": "281",
+            "style": "prop_other_goods",
+            "href": "//www.holodilnik.ru/repair/other_goods/",
+            "title": "Прочие товары для дома",
+            "items": []
+        },
+        {
+            "id": "1305",
+            "style": "prop_other_smart_home_products",
+            "href": "//www.holodilnik.ru/repair/other_smart_home_products/",
+            "title": "Прочие товары для умного дома",
+            "items": []
+        },
+        {
+            "id": "188",
+            "style": "prop_vacuum_cleaners",
+            "href": "//www.holodilnik.ru/repair/vacuum_cleaners/",
+            "title": "Пылесосы",
+            "items": []
+        },
+        {
+            "id": "602",
+            "style": "prop_vacuum_cleaners_with_battery",
+            "href": "//www.holodilnik.ru/repair/vacuum_cleaners_with_battery/",
+            "title": "Пылесосы беспроводные",
+            "items": []
+        },
+        {
+            "id": "189",
+            "style": "prop_washing_vacuum_cleaners",
+            "href": "//www.holodilnik.ru/repair/washing_vacuum_cleaners/",
+            "title": "Пылесосы моющие",
+            "items": []
+        },
+        {
+            "id": "1252",
+            "style": "prop_sockets_switches",
+            "href": "//www.holodilnik.ru/repair/sockets_switches/",
+            "title": "Розетки и выключатели",
+            "items": []
+        },
+        {
+            "id": "932",
+            "style": "prop_window_vacs",
+            "href": "//www.holodilnik.ru/repair/window_vacs/",
+            "title": "Стеклоочистители",
+            "items": []
+        },
+        {
+            "id": "517",
+            "style": "prop_dryers_for_linen",
+            "href": "//www.holodilnik.ru/repair/dryers_for_linen/",
+            "title": "Сушилки для белья",
+            "items": []
+        },
+        {
+            "id": "1254",
+            "style": "prop_extension_cords_surge_protectors_smart",
+            "href": "//www.holodilnik.ru/repair/extension_cords_surge_protectors_smart/",
+            "title": "Удлинители, сетевые фильтры",
+            "items": []
+        },
+        {
+            "id": "191",
+            "style": "prop_irons",
+            "href": "//www.holodilnik.ru/repair/irons/",
+            "title": "Утюги",
+            "items": []
+        },
+        {
+            "id": "739",
+            "style": "prop_sewing_machines",
+            "href": "//www.holodilnik.ru/repair/sewing_machines/",
+            "title": "Швейные машины",
+            "items": []
+        }
+    ]
+}

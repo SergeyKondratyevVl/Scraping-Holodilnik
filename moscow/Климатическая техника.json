@@ -1,0 +1,175 @@
+{
+    "id": "102",
+    "tag": "climatic",
+    "title": "Климатическая техника",
+    "categories": [
+        {
+            "id": "463",
+            "style": "prop_accessories_for_climatic_engineering",
+            "href": "//www.holodilnik.ru/repair/accessories_for_climatic_engineering/",
+            "title": "Аксессуары для климатической техники",
+            "items": []
+        },
+        {
+            "id": "775",
+            "style": "prop_air_flavors",
+            "href": "//www.holodilnik.ru/repair/air_flavors/",
+            "title": "Ароматизаторы воздуха",
+            "items": []
+        },
+        {
+            "id": "286",
+            "style": "prop_fans",
+            "href": "//www.holodilnik.ru/repair/fans/",
+            "title": "Вентиляторы",
+            "items": []
+        },
+        {
+            "id": "1087",
+            "style": "prop_air_exhausters",
+            "href": "//www.holodilnik.ru/repair/air_exhausters/",
+            "title": "Вентиляторы вытяжные",
+            "items": []
+        },
+        {
+            "id": "255",
+            "style": "prop_heaters_of_waters",
+            "href": "//www.holodilnik.ru/repair/heaters_of_waters/",
+            "title": "Водонагреватели накопительные",
+            "items": []
+        },
+        {
+            "id": "543",
+            "style": "prop_flowing_water_heaters",
+            "href": "//www.holodilnik.ru/repair/flowing_water_heaters/",
+            "title": "Водонагреватели проточные",
+            "items": []
+        },
+        {
+            "id": "924",
+            "style": "prop_water_heating_radiators",
+            "href": "//www.holodilnik.ru/repair/water_heating_radiators/",
+            "title": "Водяные радиаторы отопления",
+            "items": []
+        },
+        {
+            "id": "269",
+            "style": "prop_cleaner_of_air",
+            "href": "//www.holodilnik.ru/repair/cleaner_of_air/",
+            "title": "Воздухоочистители",
+            "items": []
+        },
+        {
+            "id": "490",
+            "style": "prop_flowing_heaters_of_waters",
+            "href": "//www.holodilnik.ru/repair/flowing_heaters_of_waters/",
+            "title": "Газовые водонагреватели",
+            "items": []
+        },
+        {
+            "id": "583",
+            "style": "prop_gas_heaters",
+            "href": "//www.holodilnik.ru/repair/gas_heaters/",
+            "title": "Газовые обогреватели",
+            "items": []
+        },
+        {
+            "id": "532",
+            "style": "prop_infrared_heaters",
+            "href": "//www.holodilnik.ru/repair/infrared_heaters/",
+            "title": "Инфракрасные обогреватели",
+            "items": []
+        },
+        {
+            "id": "592",
+            "style": "prop_fireplaces",
+            "href": "//www.holodilnik.ru/repair/fireplaces/",
+            "title": "Камины",
+            "items": []
+        },
+        {
+            "id": "265",
+            "style": "prop_konvectors",
+            "href": "//www.holodilnik.ru/repair/konvectors/",
+            "title": "Конвекторы",
+            "items": []
+        },
+        {
+            "id": "527",
+            "style": "prop_steam_boilers",
+            "href": "//www.holodilnik.ru/repair/steam_boilers/",
+            "title": "Котлы отопления",
+            "items": []
+        },
+        {
+            "id": "184",
+            "style": "prop_heaters",
+            "href": "//www.holodilnik.ru/repair/heaters/",
+            "title": "Масляные обогреватели",
+            "items": []
+        },
+        {
+            "id": "1058",
+            "style": "prop_weather_stations",
+            "href": "//www.holodilnik.ru/repair/weather_stations/",
+            "title": "Метеостанции и термометры",
+            "items": []
+        },
+        {
+            "id": "439",
+            "style": "prop_mobile_conditioner",
+            "href": "//www.holodilnik.ru/repair/mobile_conditioner/",
+            "title": "Мобильные кондиционеры",
+            "items": []
+        },
+        {
+            "id": "364",
+            "style": "prop_air_washer",
+            "href": "//www.holodilnik.ru/repair/air_washer/",
+            "title": "Мойки воздуха",
+            "items": []
+        },
+        {
+            "id": "295",
+            "style": "prop_drier_of_air",
+            "href": "//www.holodilnik.ru/repair/drier_of_air/",
+            "title": "Осушители воздуха",
+            "items": []
+        },
+        {
+            "id": "434",
+            "style": "prop_split_systems",
+            "href": "//www.holodilnik.ru/repair/split_systems/",
+            "title": "Сплит-системы",
+            "items": []
+        },
+        {
+            "id": "273",
+            "style": "prop_heat_fans",
+            "href": "//www.holodilnik.ru/repair/heat_fans/",
+            "title": "Тепловентиляторы",
+            "items": []
+        },
+        {
+            "id": "467",
+            "style": "prop_thermal_guns_and_veils",
+            "href": "//www.holodilnik.ru/repair/thermal_guns_and_veils/",
+            "title": "Тепловые пушки и завесы",
+            "items": []
+        },
+        {
+            "id": "926",
+            "style": "prop_electric_warm_floors",
+            "href": "//www.holodilnik.ru/repair/electric_warm_floors/",
+            "title": "Теплые полы",
+            "items": []
+        },
+        {
+            "id": "272",
+            "style": "prop_dampener_of_air",
+            "href": "//www.holodilnik.ru/repair/dampener_of_air/",
+            "title": "Увлажнители воздуха",
+            "items": []
+        }
+    ]
+}

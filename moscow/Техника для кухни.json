@@ -1,0 +1,476 @@
+{
+    "id": "143",
+    "tag": "small_domestic",
+    "title": "Техника для кухни",
+    "categories": [
+        {
+            "id": "561",
+            "style": "prop_hoods_accessories",
+            "href": "//www.holodilnik.ru/repair/hoods_accessories/",
+            "title": "Аксессуары для вытяжек",
+            "items": []
+        },
+        {
+            "id": "455",
+            "style": "prop_coffee_accessories",
+            "href": "//www.holodilnik.ru/repair/coffee_accessories/",
+            "title": "Аксессуары для кофейного оборудования",
+            "items": []
+        },
+        {
+            "id": "560",
+            "style": "prop_tableware_accessories",
+            "href": "//www.holodilnik.ru/repair/tableware_accessories/",
+            "title": "Аксессуары для кухонной посуды и принадлежностей",
+            "items": []
+        },
+        {
+            "id": "565",
+            "style": "prop_accessories_for_water_purification",
+            "href": "//www.holodilnik.ru/repair/accessories_for_water_purification/",
+            "title": "Аксессуары для обработки и очистки воды",
+            "items": []
+        },
+        {
+            "id": "562",
+            "style": "prop_preparation_of_products_accessories",
+            "href": "//www.holodilnik.ru/repair/preparation_of_products_accessories/",
+            "title": "Аксессуары для техники для подготовки и обработки продуктов",
+            "items": []
+        },
+        {
+            "id": "564",
+            "style": "prop_accessories_for_cooking",
+            "href": "//www.holodilnik.ru/repair/accessories_for_cooking/",
+            "title": "Аксессуары для техники для приготовления пищи",
+            "items": []
+        },
+        {
+            "id": "279",
+            "style": "prop_related_products_for_other_kitchen_appliances",
+            "href": "//www.holodilnik.ru/repair/related_products_for_other_kitchen_appliances/",
+            "title": "Аксессуары и сопутствующие товары для прочей кухонной техники",
+            "items": []
+        },
+        {
+            "id": "422",
+            "style": "prop_airgrills",
+            "href": "//www.holodilnik.ru/repair/airgrills/",
+            "title": "Аэрогрили",
+            "items": []
+        },
+        {
+            "id": "203",
+            "style": "prop_blenders",
+            "href": "//www.holodilnik.ru/repair/blenders/",
+            "title": "Блендеры погружные",
+            "items": []
+        },
+        {
+            "id": "366",
+            "style": "prop_stational_blenders",
+            "href": "//www.holodilnik.ru/repair/stational_blenders/",
+            "title": "Блендеры стационарные",
+            "items": []
+        },
+        {
+            "id": "204",
+            "style": "prop_pancake_maker",
+            "href": "//www.holodilnik.ru/repair/pancake_maker/",
+            "title": "Блинницы",
+            "items": []
+        },
+        {
+            "id": "361",
+            "style": "prop_sandtosters",
+            "href": "//www.holodilnik.ru/repair/sandtosters/",
+            "title": "Бутербродницы и вафельницы",
+            "items": []
+        },
+        {
+            "id": "660",
+            "style": "prop_vacuum_packers",
+            "href": "//www.holodilnik.ru/repair/vacuum_packers/",
+            "title": "Вакуумные упаковщики",
+            "items": []
+        },
+        {
+            "id": "433",
+            "style": "prop_woks",
+            "href": "//www.holodilnik.ru/repair/woks/",
+            "title": "Воки (wok)",
+            "items": []
+        },
+        {
+            "id": "218",
+            "style": "prop_hoods",
+            "href": "//www.holodilnik.ru/repair/hoods/",
+            "title": "Вытяжки",
+            "items": []
+        },
+        {
+            "id": "213",
+            "style": "prop_other_small_home_appliances",
+            "href": "//www.holodilnik.ru/repair/other_small_home_appliances/",
+            "title": "Грили и шашлычницы",
+            "items": []
+        },
+        {
+            "id": "537",
+            "style": "prop_food_storage",
+            "href": "//www.holodilnik.ru/repair/food_storage/",
+            "title": "Емкости для хранения продуктов",
+            "items": []
+        },
+        {
+            "id": "378",
+            "style": "prop_for_crumbling",
+            "href": "//www.holodilnik.ru/repair/for_crumbling/",
+            "title": "Измельчители пищевых отходов",
+            "items": []
+        },
+        {
+            "id": "205",
+            "style": "prop_yogurt_maker",
+            "href": "//www.holodilnik.ru/repair/yogurt_maker/",
+            "title": "Йогуртницы",
+            "items": []
+        },
+        {
+            "id": "432",
+            "style": "prop_saucepans",
+            "href": "//www.holodilnik.ru/repair/saucepans/",
+            "title": "Кастрюли",
+            "items": []
+        },
+        {
+            "id": "431",
+            "style": "prop_scoops",
+            "href": "//www.holodilnik.ru/repair/scoops/",
+            "title": "Ковши",
+            "items": []
+        },
+        {
+            "id": "454",
+            "style": "prop_coffee_beans",
+            "href": "//www.holodilnik.ru/repair/coffee_beans/",
+            "title": "Кофе и чай",
+            "items": []
+        },
+        {
+            "id": "206",
+            "style": "prop_coffee_makers",
+            "href": "//www.holodilnik.ru/repair/coffee_makers/",
+            "title": "Кофеварки",
+            "items": []
+        },
+        {
+            "id": "259",
+            "style": "prop_coffee_the_machine",
+            "href": "//www.holodilnik.ru/repair/coffee_the_machine/",
+            "title": "Кофемашины автоматические",
+            "items": []
+        },
+        {
+            "id": "464",
+            "style": "prop_capsule_coffee_machines",
+            "href": "//www.holodilnik.ru/repair/capsule_coffee_machines/",
+            "title": "Кофемашины капсульные",
+            "items": []
+        },
+        {
+            "id": "248",
+            "style": "prop_coffee_grinders",
+            "href": "//www.holodilnik.ru/repair/coffee_grinders/",
+            "title": "Кофемолки",
+            "items": []
+        },
+        {
+            "id": "550",
+            "style": "prop_lids",
+            "href": "//www.holodilnik.ru/repair/lids/",
+            "title": "Крышки",
+            "items": []
+        },
+        {
+            "id": "428",
+            "style": "prop_water_coolers",
+            "href": "//www.holodilnik.ru/repair/water_coolers/",
+            "title": "Кулеры для воды",
+            "items": []
+        },
+        {
+            "id": "362",
+            "style": "prop_kitchen_libra",
+            "href": "//www.holodilnik.ru/repair/kitchen_libra/",
+            "title": "Кухонные весы",
+            "items": []
+        },
+        {
+            "id": "197",
+            "style": "prop_food_processors",
+            "href": "//www.holodilnik.ru/repair/food_processors/",
+            "title": "Кухонные комбайны",
+            "items": []
+        },
+        {
+            "id": "538",
+            "style": "prop_kitchen_machines",
+            "href": "//www.holodilnik.ru/repair/kitchen_machines/",
+            "title": "Кухонные машины",
+            "items": []
+        },
+        {
+            "id": "1026",
+            "style": "prop_kitchen_implements",
+            "href": "//www.holodilnik.ru/repair/kitchen_implements/",
+            "title": "Кухонные принадлежности",
+            "items": []
+        },
+        {
+            "id": "201",
+            "style": "prop_microwave_ovens",
+            "href": "//www.holodilnik.ru/repair/microwave_ovens/",
+            "title": "Микроволновые печи - СВЧ",
+            "items": []
+        },
+        {
+            "id": "207",
+            "style": "prop_mixers",
+            "href": "//www.holodilnik.ru/repair/mixers/",
+            "title": "Миксеры",
+            "items": []
+        },
+        {
+            "id": "471",
+            "style": "prop_ice_cream_makers",
+            "href": "//www.holodilnik.ru/repair/ice_cream_makers/",
+            "title": "Мороженицы",
+            "items": []
+        },
+        {
+            "id": "417",
+            "style": "prop_multivarki",
+            "href": "//www.holodilnik.ru/repair/multivarki/",
+            "title": "Мультиварки",
+            "items": []
+        },
+        {
+            "id": "198",
+            "style": "prop_meat_grinder",
+            "href": "//www.holodilnik.ru/repair/meat_grinder/",
+            "title": "Мясорубки",
+            "items": []
+        },
+        {
+            "id": "380",
+            "style": "prop_dishes",
+            "href": "//www.holodilnik.ru/repair/dishes/",
+            "title": "Наборы посуды",
+            "items": []
+        },
+        {
+            "id": "373",
+            "style": "prop_tableware_for_mwo",
+            "href": "//www.holodilnik.ru/repair/tableware_for_mwo/",
+            "title": "Наборы посуды для СВЧ-печей",
+            "items": []
+        },
+        {
+            "id": "372",
+            "style": "prop_tableware_with_taking_off_handle",
+            "href": "//www.holodilnik.ru/repair/tableware_with_taking_off_handle/",
+            "title": "Наборы посуды со съемной ручкой",
+            "items": []
+        },
+        {
+            "id": "958",
+            "style": "prop_table_setting",
+            "href": "//www.holodilnik.ru/repair/table_setting/",
+            "title": "Предметы для сервировки стола",
+            "items": []
+        },
+        {
+            "id": "495",
+            "style": "prop_grinding_of_products",
+            "href": "//www.holodilnik.ru/repair/grinding_of_products/",
+            "title": "Приборы для измельчения продуктов",
+            "items": []
+        },
+        {
+            "id": "1022",
+            "style": "prop_accessories_for_baking",
+            "href": "//www.holodilnik.ru/repair/accessories_for_baking/",
+            "title": "Приспособления для выпечки",
+            "items": []
+        },
+        {
+            "id": "1030",
+            "style": "prop_tools_for_slicing_cleaning_grinding",
+            "href": "//www.holodilnik.ru/repair/tools_for_slicing_cleaning_grinding/",
+            "title": "Приспособления для нарезки, очистки и измельчения",
+            "items": []
+        },
+        {
+            "id": "288",
+            "style": "prop_other__goods",
+            "href": "//www.holodilnik.ru/repair/other__goods/",
+            "title": "Прочие товары для кухни",
+            "items": []
+        },
+        {
+            "id": "1103",
+            "style": "prop_dinner_sets",
+            "href": "//www.holodilnik.ru/repair/dinner_sets/",
+            "title": "Сервизы",
+            "items": []
+        },
+        {
+            "id": "457",
+            "style": "prop_kitchen_filters",
+            "href": "//www.holodilnik.ru/repair/kitchen_filters/",
+            "title": "Системы фильтрации воды",
+            "items": []
+        },
+        {
+            "id": "427",
+            "style": "prop_pans",
+            "href": "//www.holodilnik.ru/repair/pans/",
+            "title": "Сковороды",
+            "items": []
+        },
+        {
+            "id": "458",
+            "style": "prop_replaceable_filter_modules",
+            "href": "//www.holodilnik.ru/repair/replaceable_filter_modules/",
+            "title": "Сменные модули для систем фильтрации воды",
+            "items": []
+        },
+        {
+            "id": "374",
+            "style": "prop_juscers_for_citrus",
+            "href": "//www.holodilnik.ru/repair/juscers_for_citrus/",
+            "title": "Соковыжималки для цитрусовых",
+            "items": []
+        },
+        {
+            "id": "209",
+            "style": "prop_juice_extractor",
+            "href": "//www.holodilnik.ru/repair/juice_extractor/",
+            "title": "Соковыжималки универсальные",
+            "items": []
+        },
+        {
+            "id": "430",
+            "style": "prop_stew_pans",
+            "href": "//www.holodilnik.ru/repair/stew_pans/",
+            "title": "Сотейники",
+            "items": []
+        },
+        {
+            "id": "956",
+            "style": "prop_dinnerware",
+            "href": "//www.holodilnik.ru/repair/dinnerware/",
+            "title": "Столовая посуда",
+            "items": []
+        },
+        {
+            "id": "469",
+            "style": "prop_dryers_for_vegetables",
+            "href": "//www.holodilnik.ru/repair/dryers_for_vegetables/",
+            "title": "Сушилки для овощей",
+            "items": []
+        },
+        {
+            "id": "557",
+            "style": "prop_thermopots",
+            "href": "//www.holodilnik.ru/repair/thermopots/",
+            "title": "Термопоты",
+            "items": []
+        },
+        {
+            "id": "1306",
+            "style": "prop_thermoses_and_thermo_mugs",
+            "href": "//www.holodilnik.ru/repair/thermoses_and_thermo_mugs/",
+            "title": "Термосы, термоконтейнеры и термокружки",
+            "items": []
+        },
+        {
+            "id": "199",
+            "style": "prop_toasters",
+            "href": "//www.holodilnik.ru/repair/toasters/",
+            "title": "Тостеры",
+            "items": []
+        },
+        {
+            "id": "554",
+            "style": "prop_bakeware",
+            "href": "//www.holodilnik.ru/repair/bakeware/",
+            "title": "Формы для выпечки",
+            "items": []
+        },
+        {
+            "id": "871",
+            "style": "prop_coffeemakers_french-presses_cezve",
+            "href": "//www.holodilnik.ru/repair/coffeemakers_french-presses_cezve/",
+            "title": "Френч-прессы и турки",
+            "items": []
+        },
+        {
+            "id": "196",
+            "style": "prop_deep_fryer",
+            "href": "//www.holodilnik.ru/repair/deep_fryer/",
+            "title": "Фритюрницы",
+            "items": []
+        },
+        {
+            "id": "247",
+            "style": "prop_bread_bakeries",
+            "href": "//www.holodilnik.ru/repair/bread_bakeries/",
+            "title": "Хлебопечки",
+            "items": []
+        },
+        {
+            "id": "654",
+            "style": "prop_iron_kettles",
+            "href": "//www.holodilnik.ru/repair/iron_kettles/",
+            "title": "Чайники",
+            "items": []
+        },
+        {
+            "id": "210",
+            "style": "prop_teapots",
+            "href": "//www.holodilnik.ru/repair/teapots/",
+            "title": "Чайники электрические",
+            "items": []
+        },
+        {
+            "id": "567",
+            "style": "prop_teasets",
+            "href": "//www.holodilnik.ru/repair/teasets/",
+            "title": "Чайные наборы",
+            "items": []
+        },
+        {
+            "id": "284",
+            "style": "prop_electric_furnace",
+            "href": "//www.holodilnik.ru/repair/electric_furnace/",
+            "title": "Электропечи",
+            "items": []
+        },
+        {
+            "id": "274",
+            "style": "prop_electro_frying_pan",
+            "href": "//www.holodilnik.ru/repair/electro_frying_pan/",
+            "title": "Электросковороды",
+            "items": []
+        },
+        {
+            "id": "200",
+            "style": "prop_egg_boilers",
+            "href": "//www.holodilnik.ru/repair/egg_boilers/",
+            "title": "Яйцеварки",
+            "items": []
+        }
+    ]
+}

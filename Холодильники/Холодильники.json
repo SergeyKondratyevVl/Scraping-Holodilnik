@@ -1,0 +1,528 @@
+{
+    "moscow_Автомобильные холодильники": [
+        {
+            "name": "Автомобильный холодильник TESLER TCF-3012",
+            "url": "https://www.holodilnik.ru/repair/automobile_refrigerators/tesler/tcf_3012_161777/",
+            "old_price": "5590",
+            "price": "4192"
+        },
+        {
+            "name": "Автомобильный холодильник Alpicool C25",
+            "url": "https://www.holodilnik.ru/repair/automobile_refrigerators/alpicool/c25_169399/",
+            "old_price": "23399",
+            "price": "18719"
+        },
+        {
+            "name": "Автомобильный холодильник INDEL B UR 25",
+            "url": "https://www.holodilnik.ru/repair/automobile_refrigerators/indel_b/ur_25_168729/",
+            "old_price": "32990",
+            "price": "26392"
+        },
+        {
+            "name": "Автомобильный холодильник Alpicool BD45",
+            "url": "https://www.holodilnik.ru/repair/automobile_refrigerators/alpicool/bd45_148721/",
+            "old_price": "37199",
+            "price": "24179"
+        },
+        {
+            "name": "Автомобильный холодильник INDEL B CRUISE 065/V",
+            "url": "https://www.holodilnik.ru/repair/automobile_refrigerators/indel_b/cruise_65_165497/",
+            "old_price": "102599",
+            "price": "82079"
+        }
+    ],
+    "moscow_Аксессуары и сопутствующие товары для холодильников": [
+        {
+            "name": "Аккумулятор холода Ezetil Ice Akku",
+            "url": "https://www.holodilnik.ru/repair/refrigerator_acessories/ezetil/ice_akku_161525/",
+            "old_price": "399",
+            "price": "259"
+        },
+        {
+            "name": "Полка ATLANT 769 748 502 000",
+            "url": "https://www.holodilnik.ru/repair/refrigerator_acessories/atlant/769748502000_162063/",
+            "old_price": "699",
+            "price": "419"
+        },
+        {
+            "name": "Лоток Liebherr для замораживания (7426080)",
+            "url": "https://www.holodilnik.ru/repair/refrigerator_acessories/liebherr/podnos_dlja_zamorazhivanija_128099/",
+            "old_price": "1299",
+            "price": "65"
+        },
+        {
+            "name": "Ограничитель открывания двери Liebherr 9096212",
+            "url": "https://www.holodilnik.ru/repair/refrigerator_acessories/liebherr/9096212_160611/",
+            "old_price": "1299",
+            "price": "649"
+        },
+        {
+            "name": "Масленка Liebherr 7420367",
+            "url": "https://www.holodilnik.ru/repair/refrigerator_acessories/liebherr/7420367_162409/",
+            "old_price": "2099",
+            "price": "1259"
+        },
+        {
+            "name": "Корзина Liebherr для морозильных ларей (7113557)",
+            "url": "https://www.holodilnik.ru/repair/refrigerator_acessories/liebherr/7113557_161235/",
+            "old_price": "3400",
+            "price": "1360"
+        },
+        {
+            "name": "Корзина Liebherr для морозильных ларей (7113557)",
+            "url": "https://www.holodilnik.ru/repair/refrigerator_acessories/liebherr/7113557_140831/",
+            "old_price": "3400",
+            "price": "1360"
+        },
+        {
+            "name": "Аккумулятор холода Liebherr (7412053)",
+            "url": "https://www.holodilnik.ru/repair/refrigerator_acessories/liebherr/7412053_133927/",
+            "old_price": "3400",
+            "price": "340"
+        },
+        {
+            "name": "Система хранения Liebherr FlexSystem 7413532",
+            "url": "https://www.holodilnik.ru/repair/refrigerator_acessories/liebherr/7413532_155575/",
+            "old_price": "3999",
+            "price": "1400"
+        },
+        {
+            "name": "Система хранения Liebherr FlexSystem 7413532",
+            "url": "https://www.holodilnik.ru/repair/refrigerator_acessories/liebherr/7413532_148689/",
+            "old_price": "3999",
+            "price": "1400"
+        },
+        {
+            "name": "Система хранения Liebherr FlexSystem 7413532",
+            "url": "https://www.holodilnik.ru/repair/refrigerator_acessories/liebherr/7413532_166165/",
+            "old_price": "3999",
+            "price": "1400"
+        },
+        {
+            "name": "Система хранения Liebherr FlexSystem 7413532",
+            "url": "https://www.holodilnik.ru/repair/refrigerator_acessories/liebherr/7413532_156305/",
+            "old_price": "3999",
+            "price": "1400"
+        },
+        {
+            "name": "Контейнер Liebherr VarioBox (7438202)",
+            "url": "https://www.holodilnik.ru/repair/refrigerator_acessories/liebherr/7438202_164475/",
+            "old_price": "4949",
+            "price": "3217"
+        },
+        {
+            "name": "Контейнер Liebherr VarioBox (7438202)",
+            "url": "https://www.holodilnik.ru/repair/refrigerator_acessories/liebherr/7438202_165339/",
+            "old_price": "4949",
+            "price": "3217"
+        }
+    ],
+    "moscow_Винные шкафы": [
+        {
+            "name": "Винный шкаф TESLER WCV-080",
+            "url": "https://www.holodilnik.ru/repair/chamber_for_wine/tesler/wcv_080_162831/",
+            "old_price": "10990",
+            "price": "8792"
+        },
+        {
+            "name": "Винный шкаф Kitfort KT-2402",
+            "url": "https://www.holodilnik.ru/repair/chamber_for_wine/kitfort/kt_2402_146157/",
+            "old_price": "16699",
+            "price": "9184"
+        },
+        {
+            "name": "Винный шкаф Позис ШВ-39 черный",
+            "url": "https://www.holodilnik.ru/repair/chamber_for_wine/pozis/shv_39_chernyy_159581/",
+            "old_price": "43999",
+            "price": "30799"
+        },
+        {
+            "name": "Винный шкаф Позис ШВ-120 черный",
+            "url": "https://www.holodilnik.ru/repair/chamber_for_wine/pozis/shv_120_chernyy_165205/",
+            "old_price": "82990",
+            "price": "66392"
+        },
+        {
+            "name": "Винный шкаф Temptech SOMX15SRB",
+            "url": "https://www.holodilnik.ru/repair/chamber_for_wine/temptech/somx15srb_163623/",
+            "old_price": "87999",
+            "price": "70399"
+        },
+        {
+            "name": "Винный шкаф CASO WineSafe 12 Classic",
+            "url": "https://www.holodilnik.ru/repair/chamber_for_wine/caso/winesafe_12_classic_150547/",
+            "old_price": "89900",
+            "price": "22475"
+        },
+        {
+            "name": "Винный шкаф Cold Vine C40-KBT2",
+            "url": "https://www.holodilnik.ru/repair/chamber_for_wine/cold_vine/c40_kbt2_141975/",
+            "old_price": "99300",
+            "price": "54615"
+        }
+    ],
+    "moscow_Двухкамерные холодильники": [
+        {
+            "name": "Двухкамерный холодильник NordFrost NRT 143 032 белый",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/nordfrost/nrt_143_032_belyy_168923/",
+            "old_price": "18699",
+            "price": "11219"
+        },
+        {
+            "name": "Двухкамерный холодильник Бирюса Б-M124 металлик",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/birusa/b_m124_metallik_169989/",
+            "old_price": "20999",
+            "price": "19949"
+        },
+        {
+            "name": "Двухкамерный холодильник Бирюса Б-M120",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/birusa/b_m120_169887/",
+            "old_price": "21999",
+            "price": "19799"
+        },
+        {
+            "name": "Двухкамерный холодильник ATLANT ХМ 4024-000",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/atlant/4024_000_169719/",
+            "old_price": "29799",
+            "price": "25329"
+        },
+        {
+            "name": "Двухкамерный холодильник Beko DSMV5280MA0W",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/beko/dsmv5280ma0w_168809/",
+            "old_price": "29990",
+            "price": "20993"
+        },
+        {
+            "name": "Двухкамерный холодильник BBK RF-098 белый",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/bbk/rf_098_150853/",
+            "old_price": "30790",
+            "price": "21553"
+        },
+        {
+            "name": "Двухкамерный холодильник Beko RCSK 310 M 20 S",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/beko/rcsk310m20s_168099/",
+            "old_price": "30990",
+            "price": "26341"
+        },
+        {
+            "name": "Двухкамерный холодильник Позис RK FNF-170 белый ручки вертикальные",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/pozis/rk_fnf_170_belyy_ruchki_vertikalnye_169791/",
+            "old_price": "34599",
+            "price": "31139"
+        },
+        {
+            "name": "Двухкамерный холодильник Whirlpool WTNF 902 W",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/whirlpool/wtnf_902_w_168821/",
+            "old_price": "36891",
+            "price": "29513"
+        },
+        {
+            "name": "Двухкамерный холодильник Whirlpool WTNF 902 M",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/whirlpool/wtnf_902_m_169897/",
+            "old_price": "37791",
+            "price": "34012"
+        },
+        {
+            "name": "Двухкамерный холодильник MAUNFELD MFF185SFW",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/maunfeld/mff185sfw_170175/",
+            "old_price": "37899",
+            "price": "34109"
+        },
+        {
+            "name": "Двухкамерный холодильник MAUNFELD MFF185SFW",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/maunfeld/mff185sfw_170173/",
+            "old_price": "37899",
+            "price": "36004"
+        },
+        {
+            "name": "Двухкамерный холодильник ATLANT ХМ 4624-141",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/atlant/hm_4624_141_161981/",
+            "old_price": "41499",
+            "price": "33199"
+        },
+        {
+            "name": "Двухкамерный холодильник Beko B3RCNK402HX",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/beko/b3rcnk402hx_168819/",
+            "old_price": "43990",
+            "price": "41790"
+        },
+        {
+            "name": "Двухкамерный холодильник WILLMARK RFN-454DNFD",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/willmark/rfn_454dnfd_166839/",
+            "old_price": "47490",
+            "price": "37992"
+        },
+        {
+            "name": "Двухкамерный холодильник Schaub Lorenz SLUS 262 C4M",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/schaub_lorenz/slu_s262c4m_170117/",
+            "old_price": "47990",
+            "price": "43191"
+        },
+        {
+            "name": "Двухкамерный холодильник Schaub Lorenz SLUS 262 C4M",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/schaub_lorenz/slu_s262c4m_169749/",
+            "old_price": "47990",
+            "price": "40791"
+        },
+        {
+            "name": "Двухкамерный холодильник Liebherr CT 2931-21",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/liebherr/ct_2931_21_170171/",
+            "old_price": "48000",
+            "price": "45600"
+        },
+        {
+            "name": "Двухкамерный холодильник LG GA-B 379 SLUL Темный графит",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/lg/ga_b379slul_169637/",
+            "old_price": "49599",
+            "price": "47119"
+        },
+        {
+            "name": "Двухкамерный холодильник Snaige RF57SM-S5RP210D91Z1C5SNBX",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/snaige/rf57sm_s5rp210d91z1c5snbx_156715/",
+            "old_price": "51790",
+            "price": "36253"
+        },
+        {
+            "name": "Холодильник с нижней морозильной камерой Bosch Serie|4 NatureCool KGV39XL22R",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/bosch/kgv39xl22r_155299/",
+            "old_price": "51799",
+            "price": "36259"
+        },
+        {
+            "name": "Холодильник с нижней морозильной камерой Bosch Serie|4 NatureCool KGV39XK22R",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/bosch/kgv39xk22r_162429/",
+            "old_price": "51999",
+            "price": "38999"
+        },
+        {
+            "name": "Двухкамерный холодильник Beko B5RCNK403ZW",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/beko/b5rcnk403zw_168801/",
+            "old_price": "53990",
+            "price": "43192"
+        },
+        {
+            "name": "Двухкамерный холодильник ATLANT ХМ-4625-109 ND",
+            "url": "https://www.holodilnik.ru/repair/two_chambered_refrigerators/atlant/hm_4625_109_nd_150735/",
+            "old_price": "54999",
+            "price": "38499"
+        }
+    ],
+    "moscow_Климатические шкафы": [
+        {
+            "name": "Сигарный шкаф (хьюмидор) Liebherr ZKes 453-20",
+            "url": "https://www.holodilnik.ru/repair/climatic_cabinets/liebherr/zkes_453_156755/",
+            "old_price": "250000",
+            "price": "75000"
+        }
+    ],
+    "moscow_Многокамерные холодильники": [
+        {
+            "name": "Многокамерный холодильник Zarget ZFD 450GLG",
+            "url": "https://www.holodilnik.ru/repair/multichambered_refrigerators/zarget/zfd_450glg_163427/",
+            "old_price": "72990",
+            "price": "58392"
+        },
+        {
+            "name": "Многокамерный холодильник MAUNFELD MFF181NFB",
+            "url": "https://www.holodilnik.ru/repair/multichambered_refrigerators/maunfeld/mff181nfb_148991/",
+            "old_price": "99990",
+            "price": "69993"
+        },
+        {
+            "name": "Многокамерный холодильник Haier HB18FGWAAARU",
+            "url": "https://www.holodilnik.ru/repair/multichambered_refrigerators/haier/hb18fgwaaaru_162053/",
+            "old_price": "121999",
+            "price": "97599"
+        },
+        {
+            "name": "Многокамерный холодильник Gorenje NRM 8181 UX",
+            "url": "https://www.holodilnik.ru/repair/multichambered_refrigerators/gorenje/nrm8181ux_139147/",
+            "old_price": "143199",
+            "price": "93079"
+        },
+        {
+            "name": "Многокамерный холодильник Grundig GWN20110FXR",
+            "url": "https://www.holodilnik.ru/repair/multichambered_refrigerators/grundig/gwn20110fxr_164711/",
+            "old_price": "199990",
+            "price": "159992"
+        },
+        {
+            "name": "Многокамерный холодильник Grundig GWN20110FXR",
+            "url": "https://www.holodilnik.ru/repair/multichambered_refrigerators/grundig/gwn20110fxr_168755/",
+            "old_price": "199990",
+            "price": "159992"
+        },
+        {
+            "name": "Многокамерный холодильник LG GC-Q 22 FTBKL черный",
+            "url": "https://www.holodilnik.ru/repair/multichambered_refrigerators/lg/gc_q22ftbkl_133627/",
+            "old_price": "213599",
+            "price": "117479"
+        }
+    ],
+    "moscow_Морозильники (морозильные камеры)": [
+        {
+            "name": "Морозильник Scandilux FS711Y02 W",
+            "url": "https://www.holodilnik.ru/repair/freezing_chambers/scandilux/fs711y02w_169683/",
+            "old_price": "51490",
+            "price": "46341"
+        },
+        {
+            "name": "Морозильник Liebherr GN 1923-22",
+            "url": "https://www.holodilnik.ru/repair/freezing_chambers/liebherr/gn_1923_168167/",
+            "old_price": "71000",
+            "price": "56800"
+        },
+        {
+            "name": "Морозильник Liebherr GN 2723-24",
+            "url": "https://www.holodilnik.ru/repair/freezing_chambers/liebherr/gn_2723_24_161445/",
+            "old_price": "100000",
+            "price": "80000"
+        },
+        {
+            "name": "Морозильник Liebherr GN 5235-21",
+            "url": "https://www.holodilnik.ru/repair/freezing_chambers/liebherr/gn_5235_21_168227/",
+            "old_price": "167000",
+            "price": "125250"
+        }
+    ],
+    "moscow_Морозильные лари": [
+        {
+            "name": "Морозильный ларь Kraft BD (W)-102QX",
+            "url": "https://www.holodilnik.ru/repair/chests/kraft/bd_w_102qx_168649/",
+            "old_price": "14890",
+            "price": "11912"
+        },
+        {
+            "name": "Морозильный ларь Kraft BD (W)-102QX",
+            "url": "https://www.holodilnik.ru/repair/chests/kraft/bd_w_102qx_166687/",
+            "old_price": "14890",
+            "price": "11912"
+        },
+        {
+            "name": "Морозильный ларь Kraft BD (W)-102QX",
+            "url": "https://www.holodilnik.ru/repair/chests/kraft/bd_w_102qx_168841/",
+            "old_price": "14890",
+            "price": "11912"
+        },
+        {
+            "name": "Морозильный ларь Kraft BD (W)-247QX",
+            "url": "https://www.holodilnik.ru/repair/chests/kraft/bd_w_247qx_168839/",
+            "old_price": "22190",
+            "price": "17752"
+        },
+        {
+            "name": "Морозильный ларь MAUNFELD MFL300GR",
+            "url": "https://www.holodilnik.ru/repair/chests/maunfeld/mfl300gr_168533/",
+            "old_price": "37990",
+            "price": "32291"
+        },
+        {
+            "name": "Морозильный ларь Frostor F 500 SD",
+            "url": "https://www.holodilnik.ru/repair/chests/frostor/f_500_sd_169347/",
+            "old_price": "38999",
+            "price": "31199"
+        },
+        {
+            "name": "Морозильный ларь Gellar FG 775 E красный",
+            "url": "https://www.holodilnik.ru/repair/chests/gellar/fg_775_e_krasnyy_140103/",
+            "old_price": "62899",
+            "price": "37739"
+        }
+    ],
+    "moscow_Однокамерные холодильники": [
+        {
+            "name": "Однокамерный холодильник WILLMARK XR-50W",
+            "url": "https://www.holodilnik.ru/repair/one_chamber_refrigerators/willmark/xr_50w_170177/",
+            "old_price": "8550",
+            "price": "8122"
+        },
+        {
+            "name": "Однокамерный холодильник NordFrost NR 506 I",
+            "url": "https://www.holodilnik.ru/repair/one_chamber_refrigerators/nordfrost/nr_506_i__168855/",
+            "old_price": "9299",
+            "price": "6974"
+        },
+        {
+            "name": "Однокамерный холодильник MAUNFELD MFF83SL",
+            "url": "https://www.holodilnik.ru/repair/one_chamber_refrigerators/maunfeld/mff83sl_166171/",
+            "old_price": "14999",
+            "price": "11999"
+        },
+        {
+            "name": "Однокамерный холодильник Ascoli ARSRB118",
+            "url": "https://www.holodilnik.ru/repair/one_chamber_refrigerators/ascoli/arsrb118_167833/",
+            "old_price": "15990",
+            "price": "11992"
+        },
+        {
+            "name": "Однокамерный холодильник Snaige R 13SM-P6000F111XDS6XSN4B (R 130-1101AA)",
+            "url": "https://www.holodilnik.ru/repair/one_chamber_refrigerators/snaige/r_130_1101aa_150535/",
+            "old_price": "30899",
+            "price": "21629"
+        },
+        {
+            "name": "Однокамерный холодильник Liebherr T 1710-22",
+            "url": "https://www.holodilnik.ru/repair/one_chamber_refrigerators/liebherr/t_1710_22_160457/",
+            "old_price": "53999",
+            "price": "40499"
+        },
+        {
+            "name": "Однокамерный холодильник Kenwood KSD-1850 LFX",
+            "url": "https://www.holodilnik.ru/repair/one_chamber_refrigerators/kenwood/ksd_1850lfx_148851/",
+            "old_price": "61099",
+            "price": "36659"
+        },
+        {
+            "name": "Однокамерный холодильник Vestfrost VF 395 FSB",
+            "url": "https://www.holodilnik.ru/repair/one_chamber_refrigerators/vestfrost/vf_395_fsb_144413/",
+            "old_price": "66321",
+            "price": "39793"
+        },
+        {
+            "name": "Однокамерный холодильник Electrolux RRT5MF38W1",
+            "url": "https://www.holodilnik.ru/repair/one_chamber_refrigerators/electrolux/rrt5mf38w1_162241/",
+            "old_price": "113799",
+            "price": "91039"
+        }
+    ],
+    "moscow_Холодильники Side by Side": [
+        {
+            "name": "Холодильник Side by Side Kraft KF-MS2480S",
+            "url": "https://www.holodilnik.ru/repair/refrigerators_side_by_side/kraft/kf_ms2480s_169417/",
+            "old_price": "58999",
+            "price": "53099"
+        },
+        {
+            "name": "Холодильник Side by Side Liebherr SBS 7212-25 (SGN 3063-24 + SK 4240-25)",
+            "url": "https://www.holodilnik.ru/repair/refrigerators_side_by_side/liebherr/sbs_7212_25_165365/",
+            "old_price": "195000",
+            "price": "156000"
+        },
+        {
+            "name": "Холодильник Side by Side Liebherr SBS 7222-22",
+            "url": "https://www.holodilnik.ru/repair/refrigerators_side_by_side/liebherr/sbs_7222_22_166863/",
+            "old_price": "211000",
+            "price": "168800"
+        },
+        {
+            "name": "Холодильник Bosch Serie|4 Side by Side KAI93VL30R",
+            "url": "https://www.holodilnik.ru/repair/refrigerators_side_by_side/bosch/kai93vl30r_146567/",
+            "old_price": "292990",
+            "price": "161144"
+        },
+        {
+            "name": "Холодильник Side by Side Bosch Serie|6 NoFrost KAG93AI30R",
+            "url": "https://www.holodilnik.ru/repair/refrigerators_side_by_side/bosch/kag93ai30r_147423/",
+            "old_price": "323990",
+            "price": "226793"
+        }
+    ],
+    "moscow_Холодильные витрины": [
+        {
+            "name": "Холодильник для хранения меховых изделий Graude PK 70.0",
+            "url": "https://www.holodilnik.ru/repair/show_refrigerators/graude/pk_70_0_168985/",
+            "old_price": "246399",
+            "price": "209439"
+        }
+    ]
+}

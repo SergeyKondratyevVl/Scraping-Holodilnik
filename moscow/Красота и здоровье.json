@@ -1,0 +1,133 @@
+{
+    "id": "294",
+    "tag": "beauty",
+    "title": "Красота и здоровье",
+    "categories": [
+        {
+            "id": "501",
+            "style": "prop_accessories_for_appliances_for_beauty_and_health",
+            "href": "//www.holodilnik.ru/repair/accessories_for_appliances_for_beauty_and_health/",
+            "title": "Аксессуары к приборам для красоты и здоровья",
+            "items": []
+        },
+        {
+            "id": "298",
+            "style": "prop_balance_on_flat",
+            "href": "//www.holodilnik.ru/repair/balance_on_flat/",
+            "title": "Весы напольные",
+            "items": []
+        },
+        {
+            "id": "1332",
+            "style": "prop_hair_straighteners",
+            "href": "//www.holodilnik.ru/repair/hair_straighteners/",
+            "title": "Выпрямители для волос",
+            "items": []
+        },
+        {
+            "id": "312",
+            "style": "prop_spa_baths_for_legs",
+            "href": "//www.holodilnik.ru/repair/spa_baths_for_legs/",
+            "title": "Гидромассажные ванночки для ног",
+            "items": []
+        },
+        {
+            "id": "655",
+            "style": "prop_cosmetic_mirrors",
+            "href": "//www.holodilnik.ru/repair/cosmetic_mirrors/",
+            "title": "Зеркала косметические",
+            "items": []
+        },
+        {
+            "id": "311",
+            "style": "prop_manicure_sets",
+            "href": "//www.holodilnik.ru/repair/manicure_sets/",
+            "title": "Маникюрные/педикюрные наборы",
+            "items": []
+        },
+        {
+            "id": "313",
+            "style": "prop_masseurs",
+            "href": "//www.holodilnik.ru/repair/masseurs/",
+            "title": "Массажеры и массажные столы",
+            "items": []
+        },
+        {
+            "id": "257",
+            "style": "prop_machine_for_a_hairstyle_of_hair",
+            "href": "//www.holodilnik.ru/repair/machine_for_a_hairstyle_of_hair/",
+            "title": "Машинки для стрижки волос",
+            "items": []
+        },
+        {
+            "id": "656",
+            "style": "prop_devices_for_care_cleansing_skin_rejuvenation",
+            "href": "//www.holodilnik.ru/repair/devices_for_care_cleansing_skin_rejuvenation/",
+            "title": "Приборы для ухода за лицом",
+            "items": []
+        },
+        {
+            "id": "944",
+            "style": "prop_tonometers",
+            "href": "//www.holodilnik.ru/repair/tonometers/",
+            "title": "Тонометры",
+            "items": []
+        },
+        {
+            "id": "1330",
+            "style": "prop_beard_trimmers",
+            "href": "//www.holodilnik.ru/repair/beard_trimmers/",
+            "title": "Триммеры для лица и тела",
+            "items": []
+        },
+        {
+            "id": "327",
+            "style": "prop_hair_driers_brush",
+            "href": "//www.holodilnik.ru/repair/hair_driers_brush/",
+            "title": "Фен-щетки",
+            "items": []
+        },
+        {
+            "id": "195",
+            "style": "prop_hair_driers",
+            "href": "//www.holodilnik.ru/repair/hair_driers/",
+            "title": "Фены",
+            "items": []
+        },
+        {
+            "id": "211",
+            "style": "prop_nipper_for_stacking_hair",
+            "href": "//www.holodilnik.ru/repair/nipper_for_stacking_hair/",
+            "title": "Щипцы для укладки волос",
+            "items": []
+        },
+        {
+            "id": "212",
+            "style": "prop_electric_tooth-brushes",
+            "href": "//www.holodilnik.ru/repair/electric_tooth-brushes/",
+            "title": "Электрические зубные щетки и ирригаторы",
+            "items": []
+        },
+        {
+            "id": "192",
+            "style": "prop_razors",
+            "href": "//www.holodilnik.ru/repair/razors/",
+            "title": "Электробритвы",
+            "items": []
+        },
+        {
+            "id": "603",
+            "style": "prop_others_goods",
+            "href": "//www.holodilnik.ru/repair/others_goods/",
+            "title": "Электротекстиль",
+            "items": []
+        },
+        {
+            "id": "256",
+            "style": "prop_depilators",
+            "href": "//www.holodilnik.ru/repair/depilators/",
+            "title": "Эпиляторы и электробритвы для женщин",
+            "items": []
+        }
+    ]
+}

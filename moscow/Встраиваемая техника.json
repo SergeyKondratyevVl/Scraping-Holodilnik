@@ -1,0 +1,105 @@
+{
+    "id": "149",
+    "tag": "built-in",
+    "title": "Встраиваемая техника",
+    "categories": [
+        {
+            "id": "315",
+            "style": "prop_built_in_chamber_for_wine",
+            "href": "//www.holodilnik.ru/repair/built_in_chamber_for_wine/",
+            "title": "Встраиваемые винные шкафы",
+            "items": []
+        },
+        {
+            "id": "308",
+            "style": "prop_gaz_cooktops",
+            "href": "//www.holodilnik.ru/repair/gaz_cooktops/",
+            "title": "Встраиваемые газовые варочные панели",
+            "items": []
+        },
+        {
+            "id": "319",
+            "style": "prop_gaz_ovens",
+            "href": "//www.holodilnik.ru/repair/gaz_ovens/",
+            "title": "Встраиваемые газовые духовые шкафы",
+            "items": []
+        },
+        {
+            "id": "290",
+            "style": "prop_built-in_two_chambered_refrigerators",
+            "href": "//www.holodilnik.ru/repair/built-in_two_chambered_refrigerators/",
+            "title": "Встраиваемые двухкамерные холодильники",
+            "items": []
+        },
+        {
+            "id": "310",
+            "style": "prop_combination_cooktops",
+            "href": "//www.holodilnik.ru/repair/combination_cooktops/",
+            "title": "Встраиваемые комбинированные варочные панели",
+            "items": []
+        },
+        {
+            "id": "297",
+            "style": "prop_built_in_microwave_ovens",
+            "href": "//www.holodilnik.ru/repair/built_in_microwave_ovens/",
+            "title": "Встраиваемые микроволновые печи СВЧ",
+            "items": []
+        },
+        {
+            "id": "289",
+            "style": "prop_built-in_freezing_chambers",
+            "href": "//www.holodilnik.ru/repair/built-in_freezing_chambers/",
+            "title": "Встраиваемые морозильники",
+            "items": []
+        },
+        {
+            "id": "217",
+            "style": "prop_built-in_rone_chamber_refrigerators",
+            "href": "//www.holodilnik.ru/repair/built-in_rone_chamber_refrigerators/",
+            "title": "Встраиваемые однокамерные холодильники",
+            "items": []
+        },
+        {
+            "id": "216",
+            "style": "prop_dishwashers",
+            "href": "//www.holodilnik.ru/repair/dishwashers/",
+            "title": "Встраиваемые посудомоечные машины",
+            "items": []
+        },
+        {
+            "id": "234",
+            "style": "prop_washing_mashines",
+            "href": "//www.holodilnik.ru/repair/washing_mashines/",
+            "title": "Встраиваемые стиральные машины",
+            "items": []
+        },
+        {
+            "id": "291",
+            "style": "prop_built-in_refrigerators_side_by_side",
+            "href": "//www.holodilnik.ru/repair/built-in_refrigerators_side_by_side/",
+            "title": "Встраиваемые холодильники Side by Side",
+            "items": []
+        },
+        {
+            "id": "506",
+            "style": "prop_built-in_cabinets_for_warming_dishes",
+            "href": "//www.holodilnik.ru/repair/built-in_cabinets_for_warming_dishes/",
+            "title": "Встраиваемые шкафы для подогревания посуды",
+            "items": []
+        },
+        {
+            "id": "309",
+            "style": "prop_electrical_cooktops",
+            "href": "//www.holodilnik.ru/repair/electrical_cooktops/",
+            "title": "Встраиваемые электрические варочные панели",
+            "items": []
+        },
+        {
+            "id": "320",
+            "style": "prop_electric_ovens",
+            "href": "//www.holodilnik.ru/repair/electric_ovens/",
+            "title": "Встраиваемые электрические духовые шкафы",
+            "items": []
+        }
+    ]
+}

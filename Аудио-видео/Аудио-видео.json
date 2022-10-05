@@ -1,0 +1,322 @@
+{
+    "moscow_Домашние кинотеатры": [
+        {
+            "name": "Саундбар JBL 2.0 Cinema SB120",
+            "url": "https://www.holodilnik.ru/repair/home_theatres/jbl/jbl_2_0_cinema_sb120_155535/",
+            "old_price": "11999",
+            "price": "8399"
+        }
+    ],
+    "moscow_Кабели": [
+        {
+            "name": "Компонентный видео кабель Vivanco 47034",
+            "url": "https://www.holodilnik.ru/repair/cables/vivanco/47034_140273/",
+            "old_price": "900",
+            "price": "225"
+        }
+    ],
+    "moscow_Микрофоны": [
+        {
+            "name": "Микрофон настольный Ritmix RDM-120 Black",
+            "url": "https://www.holodilnik.ru/repair/microphones/ritmix/rdm_120_black_163529/",
+            "old_price": "489",
+            "price": "367"
+        },
+        {
+            "name": "Микрофон Audio-Technica ATR1100x",
+            "url": "https://www.holodilnik.ru/repair/microphones/audio-technica/atr1100x_160513/",
+            "old_price": "1590",
+            "price": "1113"
+        },
+        {
+            "name": "Студийный микрофон Ritmix RDM-169 Black",
+            "url": "https://www.holodilnik.ru/repair/microphones/ritmix/rdm_169_black_163121/",
+            "old_price": "2599",
+            "price": "1949"
+        }
+    ],
+    "moscow_Музыкальные центры": [
+        {
+            "name": "Минисистема Hyundai H-MC160 черный",
+            "url": "https://www.holodilnik.ru/repair/audio_centre/hyundai/h_mc160_chernyy_164871/",
+            "old_price": "2999",
+            "price": "1949"
+        },
+        {
+            "name": "Минисистема Hyundai H-MC160 черный",
+            "url": "https://www.holodilnik.ru/repair/audio_centre/hyundai/h_mc160_chernyy_159481/",
+            "old_price": "2999",
+            "price": "1949"
+        }
+    ],
+    "moscow_Наушники": [
+        {
+            "name": "Наушники беспроводные Hyundai H-HP100A голубой",
+            "url": "https://www.holodilnik.ru/repair/headphones/hyundai/h_hp100a_goluboy_163877/",
+            "old_price": "790",
+            "price": "592"
+        },
+        {
+            "name": "Наушники беспроводные Hyundai H-HP100G т. зеленый",
+            "url": "https://www.holodilnik.ru/repair/headphones/hyundai/h_hp100g_t_zelenyy_168001/",
+            "old_price": "790",
+            "price": "671"
+        },
+        {
+            "name": "Наушники беспроводные Digma TWS-14 белый",
+            "url": "https://www.holodilnik.ru/repair/headphones/digma/tws_14_belyy_164467/",
+            "old_price": "1090",
+            "price": "872"
+        },
+        {
+            "name": "Вставные наушники Ritmix RH-885BTH TWS black",
+            "url": "https://www.holodilnik.ru/repair/headphones/ritmix/rh_885bth_tws_black_166213/",
+            "old_price": "1190",
+            "price": "952"
+        },
+        {
+            "name": "Наушники беспроводные Rombica Mysound BH-11 Brown",
+            "url": "https://www.holodilnik.ru/repair/headphones/rombica/mysound_bh_11_brown_163173/",
+            "old_price": "1590",
+            "price": "1113"
+        },
+        {
+            "name": "Вставные наушники Xiaomi Redmi Buds 3 Lite Black M2110E1 (BHR5489GL)",
+            "url": "https://www.holodilnik.ru/repair/headphones/xiaomi/bhr5489gl_165827/",
+            "old_price": "1990",
+            "price": "1592"
+        },
+        {
+            "name": "Наушники Apple EarPods с разъёмом 3,5 мм MNHF2ZM/A",
+            "url": "https://www.holodilnik.ru/repair/headphones/apple/earpods_s_razemom_3_5_mm_mnhf2zm_a_145189/",
+            "old_price": "2199",
+            "price": "1319"
+        },
+        {
+            "name": "Вставные наушники Nobby Expert T-111, NBE-BH-50-07, черный",
+            "url": "https://www.holodilnik.ru/repair/headphones/nobby/nbe_bh_50_07_158085/",
+            "old_price": "2799",
+            "price": "1959"
+        },
+        {
+            "name": "Мониторные наушники Audio-Technica ATH-M 20 X",
+            "url": "https://www.holodilnik.ru/repair/headphones/audio-technica/ath_m20x_169393/",
+            "old_price": "6890",
+            "price": "5856"
+        },
+        {
+            "name": "Наушники беспроводные Gravastar Sirius Pro War Damaged Yellow",
+            "url": "https://www.holodilnik.ru/repair/headphones/gravastar/sirius_pro_war_damaged_yellow_158811/",
+            "old_price": "9990",
+            "price": "6493"
+        },
+        {
+            "name": "Внутриканальные наушники FiiO FD3 Pro black",
+            "url": "https://www.holodilnik.ru/repair/headphones/fiio/fd3_pro_164463/",
+            "old_price": "11490",
+            "price": "9192"
+        },
+        {
+            "name": "Вставные наушники Huawei FreeBuds Pro MermaidTWS white",
+            "url": "https://www.holodilnik.ru/repair/headphones/huawei/freebuds_pro_mermaidtws_white_164371/",
+            "old_price": "12399",
+            "price": "9919"
+        },
+        {
+            "name": "Беспроводные наушники Apple AirPods 2 MV7N2RU (без беспроводной зарядки чехла)",
+            "url": "https://www.holodilnik.ru/repair/headphones/apple/mv7n2ru_a_128163/",
+            "old_price": "12499",
+            "price": "7499"
+        },
+        {
+            "name": "Беспроводные наушники Apple AirPods Max Space Gray, Серый MGYH3RU/A",
+            "url": "https://www.holodilnik.ru/repair/headphones/apple/mgyh3ru_a_165443/",
+            "old_price": "69990",
+            "price": "45493"
+        }
+    ],
+    "moscow_Портативные колонки": [
+        {
+            "name": "Портативная колонка Harper PSPB-200 white",
+            "url": "https://www.holodilnik.ru/repair/acoustic_systems1/harper/pspb_200_white_147083/",
+            "old_price": "2090",
+            "price": "1149"
+        },
+        {
+            "name": "Умная колонка Яндекс Станция Лайт YNDX-00025 Мята (Green)",
+            "url": "https://www.holodilnik.ru/repair/acoustic_systems1/yandex/stanciya_layt_yndx_00025_myata_green_169285/",
+            "old_price": "4990",
+            "price": "3992"
+        },
+        {
+            "name": "Умная колонка кастомизированная Яндекс Станция Лайт YNDX-00025 Rainbo ''Unicorn'' RBYN-0010",
+            "url": "https://www.holodilnik.ru/repair/acoustic_systems1/yandex/rbyn_0010_166209/",
+            "old_price": "5299",
+            "price": "4239"
+        },
+        {
+            "name": "Умная колонка с Алисой Prestigio Smartmate PSS101Y, черная",
+            "url": "https://www.holodilnik.ru/repair/acoustic_systems1/prestigio/pss101y_bk_165655/",
+            "old_price": "6990",
+            "price": "5592"
+        },
+        {
+            "name": "Умная колонка с Алисой Prestigio Smartmate PSS101Y, черная",
+            "url": "https://www.holodilnik.ru/repair/acoustic_systems1/prestigio/pss101y_bk_165653/",
+            "old_price": "6990",
+            "price": "5242"
+        },
+        {
+            "name": "Умная колонка Яндекс Новая Станция Мини с часами (YNDX-00020B) Blue",
+            "url": "https://www.holodilnik.ru/repair/acoustic_systems1/yandex/yndx_00020b_blue_167999/",
+            "old_price": "7699",
+            "price": "6544"
+        }
+    ],
+    "moscow_Проигрыватели виниловых дисков": [
+        {
+            "name": "Проигрыватель виниловых дисков Ritmix LP-240 Black wood",
+            "url": "https://www.holodilnik.ru/repair/vinyl_discs_players/ritmix/lp_240_black_wood_165317/",
+            "old_price": "5290",
+            "price": "4232"
+        },
+        {
+            "name": "Проигрыватель виниловых дисков Audio-Technica AT-LP60XBK черный",
+            "url": "https://www.holodilnik.ru/repair/vinyl_discs_players/audio-technica/at_lp60xbk_chernyy_157469/",
+            "old_price": "16590",
+            "price": "11613"
+        },
+        {
+            "name": "Проигрыватель виниловых дисков Audio-Technica AT-LP 60 XUSBGM ружейная сталь",
+            "url": "https://www.holodilnik.ru/repair/vinyl_discs_players/audio-technica/at_lp60xusbgm_148433/",
+            "old_price": "18499",
+            "price": "11099"
+        }
+    ],
+    "moscow_Радиоприемники и радиочасы": [
+        {
+            "name": "Радиоприемник портативный Hyundai H-PSR130 черный",
+            "url": "https://www.holodilnik.ru/repair/radio/hyundai/h_psr130_chernyy_150011/",
+            "old_price": "699",
+            "price": "489"
+        },
+        {
+            "name": "Радиоприёмник Ritmix RPR-065 GRAY",
+            "url": "https://www.holodilnik.ru/repair/radio/ritmix/rpr_065_gray_141599/",
+            "old_price": "1299",
+            "price": "714"
+        },
+        {
+            "name": "Радиоприемник Ritmix RPR-888",
+            "url": "https://www.holodilnik.ru/repair/radio/ritmix/rpr_888_161545/",
+            "old_price": "1799",
+            "price": "1349"
+        },
+        {
+            "name": "Радиоприемник Ritmix RPR-888",
+            "url": "https://www.holodilnik.ru/repair/radio/ritmix/rpr_888_162421/",
+            "old_price": "1799",
+            "price": "1349"
+        },
+        {
+            "name": "Радиоприёмник Ritmix RPR-088 BLACK",
+            "url": "https://www.holodilnik.ru/repair/radio/ritmix/rpr_088_black_152773/",
+            "old_price": "1890",
+            "price": "1323"
+        },
+        {
+            "name": "Будильник Hyundai H-RCL 120 черный",
+            "url": "https://www.holodilnik.ru/repair/radio/hyundai/h_rcl120_chernyy_158039/",
+            "old_price": "1990",
+            "price": "1393"
+        },
+        {
+            "name": "Радиоприемник Hyundai H-PSR 200 дерево коричневое/серебристый",
+            "url": "https://www.holodilnik.ru/repair/radio/hyundai/h_psr200_derevo_korichnevoe_serebristyy_163517/",
+            "old_price": "3490",
+            "price": "2617"
+        }
+    ],
+    "moscow_Стабилизаторы напряжения, сетевые фильтры, ИБП, розетки": [
+        {
+            "name": "Удлинитель ЭРА UR(6)-3-1,5m ЭРА рулетка без заземления, 3гн, 1,5м, ШВВП, 2x0.75мм2, 6А (УХ6-103)",
+            "url": "https://www.holodilnik.ru/repair/electrical_filters/era/ur6_3_1_5m_164987/",
+            "old_price": "239",
+            "price": "155"
+        },
+        {
+            "name": "Удлинитель ЭРА UR(6)-3-3m ЭРА рулетка без заземления, 3гн, 3м, ШВВП, 2x0.75мм2, 6А (УХ6-103)",
+            "url": "https://www.holodilnik.ru/repair/electrical_filters/era/ur6_3_3m_168393/",
+            "old_price": "289",
+            "price": "217"
+        },
+        {
+            "name": "Реле напряжения Volt Control РН-101М 3425600102",
+            "url": "https://www.holodilnik.ru/repair/electrical_filters/volt_control/rn_101m_163027/",
+            "old_price": "2099",
+            "price": "1364"
+        },
+        {
+            "name": "Реле напряжения Volt Control РН-101М 3425600102",
+            "url": "https://www.holodilnik.ru/repair/electrical_filters/volt_control/rn_101m_169823/",
+            "old_price": "2099",
+            "price": "1889"
+        },
+        {
+            "name": "Сетевой фильтр Belkin 4 розетки, макс 525Дж 2м белый (BSV400vf2M)",
+            "url": "https://www.holodilnik.ru/repair/electrical_filters/belkin/bsv400vf2m_156453/",
+            "old_price": "2630",
+            "price": "1052"
+        },
+        {
+            "name": "Сетевой фильтр Tessan TP-VA5U12E Black",
+            "url": "https://www.holodilnik.ru/repair/electrical_filters/tessan/tp_va5u12e_black_168611/",
+            "old_price": "3222",
+            "price": "2255"
+        },
+        {
+            "name": "Стабилизатор напряжения Вольт Engineering Гибрид Э 7-1/32 v2.0",
+            "url": "https://www.holodilnik.ru/repair/electrical_filters/volt_engineering/volt_engineering_gibrid_e_7_1_32_v2_0_159249/",
+            "old_price": "20980",
+            "price": "11539"
+        },
+        {
+            "name": "Стабилизатор напряжения Вольт Engineering Гибрид Э 9-1/32 v2",
+            "url": "https://www.holodilnik.ru/repair/electrical_filters/volt_engineering/gibrid_e_9_1_32_v2_156583/",
+            "old_price": "23980",
+            "price": "13189"
+        },
+        {
+            "name": "Стабилизатор напряжения Вольт Engineering Ампер Э 9-1/32 v2.1",
+            "url": "https://www.holodilnik.ru/repair/electrical_filters/volt_engineering/amper_e_9_1_32_v2_1_160031/",
+            "old_price": "25483",
+            "price": "15290"
+        },
+        {
+            "name": "Стабилизатор напряжения Teplodom STL-10000",
+            "url": "https://www.holodilnik.ru/repair/electrical_filters/teplodom/stl_10000teplodom_159373/",
+            "old_price": "47950",
+            "price": "26372"
+        },
+        {
+            "name": "Стабилизатор напряжения Teplodom STP-10000",
+            "url": "https://www.holodilnik.ru/repair/electrical_filters/teplodom/stp_10000_148215/",
+            "old_price": "52599",
+            "price": "18410"
+        },
+        {
+            "name": "Стабилизатор напряжения Teplodom STP-10000",
+            "url": "https://www.holodilnik.ru/repair/electrical_filters/teplodom/stp_10000_147639/",
+            "old_price": "52599",
+            "price": "23670"
+        }
+    ],
+    "moscow_Усилители": [
+        {
+            "name": "Bluetooth модули для наушников FiiO UTWS3 Black",
+            "url": "https://www.holodilnik.ru/repair/amplifiers/fiio/utws3_black_147437/",
+            "old_price": "4959",
+            "price": "3223"
+        }
+    ]
+}

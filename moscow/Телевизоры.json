@@ -1,0 +1,49 @@
+{
+    "id": "106",
+    "tag": "tv_all",
+    "title": "Телевизоры",
+    "categories": [
+        {
+            "id": "328",
+            "style": "prop_av_furniture",
+            "href": "//www.holodilnik.ru/repair/av_furniture/",
+            "title": "Кронштейны для телевизоров",
+            "items": []
+        },
+        {
+            "id": "341",
+            "style": "prop_tv_stands",
+            "href": "//www.holodilnik.ru/repair/tv_stands/",
+            "title": "Подставки, стойки и полки для телевизоров и аппаратуры",
+            "items": []
+        },
+        {
+            "id": "384",
+            "style": "prop_mediaplayers",
+            "href": "//www.holodilnik.ru/repair/mediaplayers/",
+            "title": "Приставки Smart TV",
+            "items": []
+        },
+        {
+            "id": "542",
+            "style": "prop_tv_antennas",
+            "href": "//www.holodilnik.ru/repair/tv_antennas/",
+            "title": "ТВ антенны",
+            "items": []
+        },
+        {
+            "id": "337",
+            "style": "prop_tv",
+            "href": "//www.holodilnik.ru/repair/tv/",
+            "title": "Телевизоры",
+            "items": []
+        },
+        {
+            "id": "539",
+            "style": "prop_digital_tv_receivers",
+            "href": "//www.holodilnik.ru/repair/digital_tv_receivers/",
+            "title": "Цифровые телевизионные ресиверы",
+            "items": []
+        }
+    ]
+}

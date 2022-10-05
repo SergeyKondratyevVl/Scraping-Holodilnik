@@ -1,0 +1,49 @@
+{
+    "id": "110",
+    "tag": "sport_recreation",
+    "title": "Спорт и отдых",
+    "categories": [
+        {
+            "id": "1129",
+            "style": "prop_trampolines",
+            "href": "//www.holodilnik.ru/repair/trampolines/",
+            "title": "Батуты",
+            "items": []
+        },
+        {
+            "id": "1074",
+            "style": "prop_bicycles",
+            "href": "//www.holodilnik.ru/repair/bicycles/",
+            "title": "Велосипеды и велогибриды",
+            "items": []
+        },
+        {
+            "id": "1188",
+            "style": "prop_fitness_equipment",
+            "href": "//www.holodilnik.ru/repair/fitness_equipment/",
+            "title": "Инвентарь для фитнеса",
+            "items": []
+        },
+        {
+            "id": "1109",
+            "style": "prop_cardiofitness_equipment",
+            "href": "//www.holodilnik.ru/repair/cardiofitness_equipment/",
+            "title": "Кардиотренажеры",
+            "items": []
+        },
+        {
+            "id": "1080",
+            "style": "prop_scooters",
+            "href": "//www.holodilnik.ru/repair/scooters/",
+            "title": "Самокаты и скейтборды",
+            "items": []
+        },
+        {
+            "id": "1111",
+            "style": "prop_strength_fitness_equipment",
+            "href": "//www.holodilnik.ru/repair/strength_fitness_equipment/",
+            "title": "Силовые тренажеры",
+            "items": []
+        }
+    ]
+}

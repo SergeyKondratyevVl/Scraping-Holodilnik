@@ -1,0 +1,77 @@
+{
+    "id": "145",
+    "tag": "audio_video",
+    "title": "Аудио-видео",
+    "categories": [
+        {
+            "id": "235",
+            "style": "prop_home_theatres",
+            "href": "//www.holodilnik.ru/repair/home_theatres/",
+            "title": "Домашние кинотеатры",
+            "items": []
+        },
+        {
+            "id": "367",
+            "style": "prop_cables",
+            "href": "//www.holodilnik.ru/repair/cables/",
+            "title": "Кабели",
+            "items": []
+        },
+        {
+            "id": "335",
+            "style": "prop_microphones",
+            "href": "//www.holodilnik.ru/repair/microphones/",
+            "title": "Микрофоны",
+            "items": []
+        },
+        {
+            "id": "244",
+            "style": "prop_audio_centre",
+            "href": "//www.holodilnik.ru/repair/audio_centre/",
+            "title": "Музыкальные центры",
+            "items": []
+        },
+        {
+            "id": "334",
+            "style": "prop_headphones",
+            "href": "//www.holodilnik.ru/repair/headphones/",
+            "title": "Наушники",
+            "items": []
+        },
+        {
+            "id": "530",
+            "style": "prop_acoustic_systems1",
+            "href": "//www.holodilnik.ru/repair/acoustic_systems1/",
+            "title": "Портативные колонки",
+            "items": []
+        },
+        {
+            "id": "611",
+            "style": "prop_vinyl_discs_players",
+            "href": "//www.holodilnik.ru/repair/vinyl_discs_players/",
+            "title": "Проигрыватели виниловых дисков",
+            "items": []
+        },
+        {
+            "id": "370",
+            "style": "prop_radio",
+            "href": "//www.holodilnik.ru/repair/radio/",
+            "title": "Радиоприемники и радиочасы",
+            "items": []
+        },
+        {
+            "id": "368",
+            "style": "prop_electrical_filters",
+            "href": "//www.holodilnik.ru/repair/electrical_filters/",
+            "title": "Стабилизаторы напряжения, сетевые фильтры, ИБП, розетки",
+            "items": []
+        },
+        {
+            "id": "623",
+            "style": "prop_amplifiers",
+            "href": "//www.holodilnik.ru/repair/amplifiers/",
+            "title": "Усилители",
+            "items": []
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "150",
+    "tag": "gas-stoves",
+    "title": "Плиты",
+    "categories": [
+        {
+            "id": "155",
+            "style": "prop_gas_cookers",
+            "href": "//www.holodilnik.ru/repair/gas_cookers/",
+            "title": "Газовые плиты",
+            "items": []
+        },
+        {
+            "id": "277",
+            "style": "prop_combined_cookers",
+            "href": "//www.holodilnik.ru/repair/combined_cookers/",
+            "title": "Комбинированные плиты",
+            "items": []
+        },
+        {
+            "id": "487",
+            "style": "prop_table_cookers",
+            "href": "//www.holodilnik.ru/repair/table_cookers/",
+            "title": "Настольные плиты",
+            "items": []
+        },
+        {
+            "id": "154",
+            "style": "prop_electric_cookers",
+            "href": "//www.holodilnik.ru/repair/electric_cookers/",
+            "title": "Электрические плиты (электроплиты)",
+            "items": []
+        }
+    ]
+}

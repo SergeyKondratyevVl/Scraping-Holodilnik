@@ -1,0 +1,556 @@
+{
+    "moscow_Газовые плиты": [
+        {
+            "name": "Газовая плита Flama AVG 1402 W (без духовки)",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/flama/avg_1402_w_163913/",
+            "old_price": "6699",
+            "price": "5024"
+        },
+        {
+            "name": "Газовая плита Flama AVG 1402 W (без духовки)",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/flama/avg_1402_w_170311/",
+            "old_price": "6699",
+            "price": "6029"
+        },
+        {
+            "name": "Газовая плита Flama AVG 1402 W (без духовки)",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/flama/avg_1402_w_150923/",
+            "old_price": "6699",
+            "price": "4354"
+        },
+        {
+            "name": "Газовая плита Лысьва ГП 40р0 МС-2у черная, без крышки",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/lysva/gp_40r0_ms_2u_chernaya_bez_kryshki_170113/",
+            "old_price": "15590",
+            "price": "14031"
+        },
+        {
+            "name": "Газовая плита GEFEST Брест 1200 C7 K8",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/gefest/brest_1200c7_k8_170053/",
+            "old_price": "15599",
+            "price": "10919"
+        },
+        {
+            "name": "Газовая плита Flama HG 6421 W",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/flama/hg_6421_w_153707/",
+            "old_price": "16990",
+            "price": "11893"
+        },
+        {
+            "name": "Газовая плита Weissgauff WGS G4G12 WGS",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/weissgauff/wgs_g4g12_wgs_169651/",
+            "old_price": "18999",
+            "price": "13299"
+        },
+        {
+            "name": "Газовая плита GEFEST ПГ 1200-С6 К43",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/gefest/pg_1200_s6_k43_150039/",
+            "old_price": "21499",
+            "price": "12899"
+        },
+        {
+            "name": "Газовая плита GEFEST ПГ 6100-02 0186",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/gefest/pg_6100_02_0186_156497/",
+            "old_price": "24899",
+            "price": "16184"
+        },
+        {
+            "name": "Газовая плита Beko FSGT52110DWO",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/beko/fsgt52110dwo_166215/",
+            "old_price": "25990",
+            "price": "20792"
+        },
+        {
+            "name": "Газовая плита GEFEST ПГ 5100-02 0068",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/gefest/pg_5100_02_0068_169269/",
+            "old_price": "26699",
+            "price": "22694"
+        },
+        {
+            "name": "Газовая плита GEFEST ПГ 6100-02 0187",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/gefest/pg_6100_02_0187_150869/",
+            "old_price": "27299",
+            "price": "19109"
+        },
+        {
+            "name": "Газовая плита Gorenje G5111WH",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/gorenje/g5111wh_168031/",
+            "old_price": "29499",
+            "price": "25074"
+        },
+        {
+            "name": "Газовая плита GEFEST ПГ 6100-03 0279",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/gefest/pg_6100_03_0279_154615/",
+            "old_price": "30499",
+            "price": "21349"
+        },
+        {
+            "name": "Газовая плита GEFEST ПГ 6500-02 0115",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/gefest/pg_6500_02_0115_158399/",
+            "old_price": "31799",
+            "price": "22259"
+        },
+        {
+            "name": "Газовая плита Gorenje G5111WH-B",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/gorenje/g5111wh_b_154541/",
+            "old_price": "36399",
+            "price": "23659"
+        },
+        {
+            "name": "Газовая плита Simfer F 66 GL 42017",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/simfer/f_66gl42017_162179/",
+            "old_price": "36599",
+            "price": "27449"
+        },
+        {
+            "name": "Газовая плита Beko FSG62120DXMCS",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/beko/fsg62120dxmcs_155749/",
+            "old_price": "55990",
+            "price": "39193"
+        },
+        {
+            "name": "Газовая плита Zigmund & Shtain VGG 38.62 A",
+            "url": "https://www.holodilnik.ru/repair/gas_cookers/zigmund__shtain/vgg_38_62_a_131881/",
+            "old_price": "122599",
+            "price": "61299"
+        }
+    ],
+    "moscow_Комбинированные плиты": [
+        {
+            "name": "Комбинированная плита Flama CK 2201 W белый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/ck2201w_belyyck2201w_belyy_144747/",
+            "old_price": "10799",
+            "price": "6479"
+        },
+        {
+            "name": "Комбинированная плита Flama СK 2202 W белый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/sk2202w_belyy_125823/",
+            "old_price": "11599",
+            "price": "4640"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 23-105 W белый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk23_105w_belyy_144425/",
+            "old_price": "13999",
+            "price": "7699"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 23-105 W белый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk23_105w_belyy_144073/",
+            "old_price": "13999",
+            "price": "7699"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 23-101 W",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk_23_101_w_161783/",
+            "old_price": "14299",
+            "price": "11439"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 2201 W белый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk2201w_belyy_143159/",
+            "old_price": "14417",
+            "price": "7929"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 2201 W белый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk2201w_belyy_164025/",
+            "old_price": "14417",
+            "price": "10813"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 2201 W белый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk2201w_belyy_142981/",
+            "old_price": "14417",
+            "price": "7929"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 2201 W белый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk2201w_belyy_147403/",
+            "old_price": "14417",
+            "price": "9371"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 2201 W белый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk2201w_belyy_142101/",
+            "old_price": "14417",
+            "price": "7929"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 2201 W белый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk2201w_belyy_147317/",
+            "old_price": "14417",
+            "price": "9371"
+        },
+        {
+            "name": "Комбинированная плита Мечта 221-01 ГЭ",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/mechta/221_01_ge_166673/",
+            "old_price": "15299",
+            "price": "11474"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 2201В коричневый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk2201v_korichnevyy_125817/",
+            "old_price": "16399",
+            "price": "9019"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 2201В коричневый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk2201v_korichnevyy_169721/",
+            "old_price": "16399",
+            "price": "14759"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 2201В коричневый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk2201v_korichnevyy_147557/",
+            "old_price": "16399",
+            "price": "9019"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 2201В коричневый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk2201v_korichnevyy_154191/",
+            "old_price": "16399",
+            "price": "10659"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 2201В коричневый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk2201v_korichnevyy_145615/",
+            "old_price": "16399",
+            "price": "9019"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 2201В коричневый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk2201v_korichnevyy_149727/",
+            "old_price": "16399",
+            "price": "10659"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 2201В коричневый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk2201v_korichnevyy_142003/",
+            "old_price": "16399",
+            "price": "9019"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 2201В коричневый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk2201v_korichnevyy_170139/",
+            "old_price": "16399",
+            "price": "15579"
+        },
+        {
+            "name": "Комбинированная плита Flama RK 2201В коричневый",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/flama/rk2201v_korichnevyy_148017/",
+            "old_price": "16399",
+            "price": "9019"
+        },
+        {
+            "name": "Комбинированная плита Мечта 251-01 ГЭ",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/mechta/251_01_ge_148871/",
+            "old_price": "16799",
+            "price": "10079"
+        },
+        {
+            "name": "Комбинированная плита De luxe 5040.21 гэ",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/de_luxe/5040_21_ge_166925/",
+            "old_price": "16999",
+            "price": "14449"
+        },
+        {
+            "name": "Комбинированная плита Лысьва ЭГ 401 СТ-2у черная",
+            "url": "https://www.holodilnik.ru/repair/combined_cookers/lysva/eg_401_st_2u_chernaya_159309/",
+            "old_price": "17090",
+            "price": "11108"
+        }
+    ],
+    "moscow_Настольные плиты": [
+        {
+            "name": "Настольная плита Econ ECO-232HP чёрный",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/econ/eco_232hp_chernyy_161303/",
+            "old_price": "1749",
+            "price": "1224"
+        },
+        {
+            "name": "Настольная плита Energy EN-002B 144034 чёрная",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/energy/en_002b_144034_chernaya_162077/",
+            "old_price": "1899",
+            "price": "1519"
+        },
+        {
+            "name": "Настольная плита WILLMARK НS-215",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/willmark/ns_215_169003/",
+            "old_price": "1949",
+            "price": "1462"
+        },
+        {
+            "name": "Настольная плита Energy EN-903 158903 белая",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/energy/en_903_158903_belaya_169521/",
+            "old_price": "1997",
+            "price": "1797"
+        },
+        {
+            "name": "Настольная плита Sakura ПЭ-04ВR",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/sakura/pe_04vr_165355/",
+            "old_price": "1999",
+            "price": "1499"
+        },
+        {
+            "name": "Настольная плита Матрёна МА-063 101248 сталь",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/matrena/ma_063_101248_stal_166741/",
+            "old_price": "2149",
+            "price": "1612"
+        },
+        {
+            "name": "Настольная плита Scarlett SC-HP700S02",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/scarlett/sc_hp700s02_158569/",
+            "old_price": "2349",
+            "price": "1409"
+        },
+        {
+            "name": "Настольная плита MAUNFELD SEHE.232B",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/maunfeld/sehe_232b_163279/",
+            "old_price": "2490",
+            "price": "1743"
+        },
+        {
+            "name": "Настольная плитка индукционная Galaxy GL3054",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/galaxy/gl3054_167995/",
+            "old_price": "2511",
+            "price": "2009"
+        },
+        {
+            "name": "Настольная плита MAUNFELD EGHE.F62.3EB",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/maunfeld/eghe_f62_3eb_166535/",
+            "old_price": "2790",
+            "price": "2092"
+        },
+        {
+            "name": "Плитка индукционная электрическая Endever Skyline IP-21",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/endever/skyline_ip_21_160069/",
+            "old_price": "2790",
+            "price": "1813"
+        },
+        {
+            "name": "Настольная плита Darina LN GM 521 01 B",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/darina/ln_gm521_01_b_169667/",
+            "old_price": "2799",
+            "price": "2239"
+        },
+        {
+            "name": "Настольная плита GEFEST Брест ПГ 700-02",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/gefest/brest_pg_700_02_163211/",
+            "old_price": "2799",
+            "price": "2099"
+        },
+        {
+            "name": "Настольная плита Мечта 100М черная",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/mechta/100m_156959/",
+            "old_price": "2999",
+            "price": "1949"
+        },
+        {
+            "name": "Настольная плита TESLER PI-18 WHITE",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/tesler/pi_18_white_159289/",
+            "old_price": "3190",
+            "price": "1914"
+        },
+        {
+            "name": "Настольная плита Лысьва ЭПБ 2,2 (22) кремовая 2-конф.",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/lysva/epb_2_2_kremovaya_158943/",
+            "old_price": "3399",
+            "price": "2209"
+        },
+        {
+            "name": "Настольная плита Kitfort КТ-101",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/kitfort/kt_101_168579/",
+            "old_price": "3490",
+            "price": "2792"
+        },
+        {
+            "name": "Настольная плита Мечта 211Ч (чёрная)",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/mechta/211ch_148387/",
+            "old_price": "3499",
+            "price": "2274"
+        },
+        {
+            "name": "Настольная плита BQ (Bright&Quick) HP101W Белый",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/b_q/hp101w_belyy_162057/",
+            "old_price": "3890",
+            "price": "2917"
+        },
+        {
+            "name": "Настольная плита Лысьва ЭПБ 21, 2,2кВт рябчик коричневый",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/lysva/epb_21_2_2kvt_ryabchik_korichnevyy_168369/",
+            "old_price": "3990",
+            "price": "3391"
+        },
+        {
+            "name": "Настольная плита Лысьва ЭПБ 21, 2,2кВт Зеленое яблоко",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/lysva/epb_21_2_2kvt_zelenoe_yabloko_163163/",
+            "old_price": "3990",
+            "price": "2992"
+        },
+        {
+            "name": "Настольная плита Kitfort КТ-106",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/kitfort/kt_106_158553/",
+            "old_price": "4490",
+            "price": "2918"
+        },
+        {
+            "name": "Настольная плита GEFEST ПЭ 720",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/gefest/pe_720_169147/",
+            "old_price": "4799",
+            "price": "3839"
+        },
+        {
+            "name": "Настольная плита GEFEST ПЭ 720",
+            "url": "https://www.holodilnik.ru/repair/table_cookers/gefest/pe_720_159973/",
+            "old_price": "4799",
+            "price": "3839"
+        }
+    ],
+    "moscow_Электрические плиты (электроплиты)": [
+        {
+            "name": "Электроплита Мечта 15 М",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/mechta/me4ta_15m_159337/",
+            "old_price": "11399",
+            "price": "7409"
+        },
+        {
+            "name": "Электроплита Мечта 15 М",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/mechta/me4ta_15m_159341/",
+            "old_price": "11399",
+            "price": "7409"
+        },
+        {
+            "name": "Электроплита Мечта 15 М",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/mechta/me4ta_15m_159339/",
+            "old_price": "11399",
+            "price": "7409"
+        },
+        {
+            "name": "Электроплита Flama CE 3201 W",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/flama/ce_3201_w_164027/",
+            "old_price": "11999",
+            "price": "7799"
+        },
+        {
+            "name": "Электроплита Darina S EM 521 404 W",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/darina/sem_521_404_w_166079/",
+            "old_price": "12299",
+            "price": "9839"
+        },
+        {
+            "name": "Электроплита Лысьва ЭП 301 СТ белая",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/lysva/ep_301_st_belaya_164827/",
+            "old_price": "13099",
+            "price": "10479"
+        },
+        {
+            "name": "Электроплита Лысьва ЭП 301 СТ черная",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/lysva/ep_301_st_chernaya_166907/",
+            "old_price": "13099",
+            "price": "9169"
+        },
+        {
+            "name": "Электроплита Мечта 12-06-03 СБ",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/mechta/12_06_03_sb_149355/",
+            "old_price": "13990",
+            "price": "9093"
+        },
+        {
+            "name": "Электроплита Мечта 12-06-03 СБ",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/mechta/12_06_03_sb_151051/",
+            "old_price": "13990",
+            "price": "9793"
+        },
+        {
+            "name": "Электроплита Мечта 12-06-03 СБ",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/mechta/12_06_03_sb_150379/",
+            "old_price": "13990",
+            "price": "9093"
+        },
+        {
+            "name": "Электроплита Лысьва ЭП 401 СТ черная",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/lysva/ep_401_st_chernaya_170125/",
+            "old_price": "13999",
+            "price": "13299"
+        },
+        {
+            "name": "Электроплита Лысьва ЭП 401 СТ черная",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/lysva/ep_401_st_chernaya_170123/",
+            "old_price": "13999",
+            "price": "13299"
+        },
+        {
+            "name": "Электроплита Flama AE 1403 W",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/flama/ae_1403_w_153777/",
+            "old_price": "13999",
+            "price": "9099"
+        },
+        {
+            "name": "Электроплита Лысьва ЭП 401 СТ черная",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/lysva/ep_401_st_chernaya_164533/",
+            "old_price": "13999",
+            "price": "11199"
+        },
+        {
+            "name": "Электроплита Лысьва ЭП 411 СТ белая",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/lysva/ep_411_st_belaya_170151/",
+            "old_price": "14099",
+            "price": "13394"
+        },
+        {
+            "name": "Электроплита Лысьва ЭП 411 СТ белая",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/lysva/ep_411_st_belaya_170149/",
+            "old_price": "14099",
+            "price": "13394"
+        },
+        {
+            "name": "Электроплита Лысьва ЭП 411 СТ белая",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/lysva/ep_411_st_belaya_163589/",
+            "old_price": "14099",
+            "price": "11279"
+        },
+        {
+            "name": "Электроплита De luxe 5003.17",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/de_luxe/5003_17_151815/",
+            "old_price": "14399",
+            "price": "9359"
+        },
+        {
+            "name": "Электроплита Мечта 221Ч",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/mechta/221ch_142015/",
+            "old_price": "14699",
+            "price": "8084"
+        },
+        {
+            "name": "Электроплита Мечта 221Ч",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/mechta/221ch_154721/",
+            "old_price": "14699",
+            "price": "8084"
+        },
+        {
+            "name": "Электроплита Мечта 221Ч",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/mechta/221ch_153321/",
+            "old_price": "14699",
+            "price": "9554"
+        },
+        {
+            "name": "Электроплита De luxe 5004.12 э (без щитка и крышки) белый",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/de_luxe/5004_12_157635/",
+            "old_price": "14799",
+            "price": "10359"
+        },
+        {
+            "name": "Электроплита De luxe 5003.17 (крышка)",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/de_luxe/5003_17_krishka__170129/",
+            "old_price": "14999",
+            "price": "14249"
+        },
+        {
+            "name": "Электроплита Flama AE 1401 W",
+            "url": "https://www.holodilnik.ru/repair/electric_cookers/flama/ae_1401_w_160125/",
+            "old_price": "15299",
+            "price": "10709"
+        }
+    ]
+}

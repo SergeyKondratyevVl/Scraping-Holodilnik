@@ -1,0 +1,119 @@
+{
+    "id": "376",
+    "tag": "digital_tech",
+    "title": "Компьютерная техника",
+    "categories": [
+        {
+            "id": "446",
+            "style": "prop_batteries_rechargers",
+            "href": "//www.holodilnik.ru/repair/batteries_rechargers/",
+            "title": "Батарейки, аккумуляторы и зарядные устройства для них",
+            "items": []
+        },
+        {
+            "id": "442",
+            "style": "prop_portable_chargers",
+            "href": "//www.holodilnik.ru/repair/portable_chargers/",
+            "title": "Внешние аккумуляторы",
+            "items": []
+        },
+        {
+            "id": "404",
+            "style": "prop_external_hdd",
+            "href": "//www.holodilnik.ru/repair/external_hdd/",
+            "title": "Внешние жесткие диски (HDD)",
+            "items": []
+        },
+        {
+            "id": "415",
+            "style": "prop_graphics_tablets",
+            "href": "//www.holodilnik.ru/repair/graphics_tablets/",
+            "title": "Графические планшеты",
+            "items": []
+        },
+        {
+            "id": "414",
+            "style": "prop_lcd_monitors",
+            "href": "//www.holodilnik.ru/repair/lcd_monitors/",
+            "title": "ЖК мониторы",
+            "items": []
+        },
+        {
+            "id": "547",
+            "style": "prop_mouse_pads",
+            "href": "//www.holodilnik.ru/repair/mouse_pads/",
+            "title": "Коврики для мышек",
+            "items": []
+        },
+        {
+            "id": "1184",
+            "style": "prop_computer_headsets",
+            "href": "//www.holodilnik.ru/repair/computer_headsets/",
+            "title": "Компьютерные гарнитуры",
+            "items": []
+        },
+        {
+            "id": "398",
+            "style": "prop_mouse_keyboards",
+            "href": "//www.holodilnik.ru/repair/mouse_keyboards/",
+            "title": "Компьютерные мыши и клавиатуры",
+            "items": []
+        },
+        {
+            "id": "421",
+            "style": "prop_monoblocks",
+            "href": "//www.holodilnik.ru/repair/monoblocks/",
+            "title": "Моноблоки",
+            "items": []
+        },
+        {
+            "id": "596",
+            "style": "prop_mfus",
+            "href": "//www.holodilnik.ru/repair/mfus/",
+            "title": "МФУ",
+            "items": []
+        },
+        {
+            "id": "245",
+            "style": "prop_notebook",
+            "href": "//www.holodilnik.ru/repair/notebook/",
+            "title": "Ноутбуки",
+            "items": []
+        },
+        {
+            "id": "595",
+            "style": "prop_printerss",
+            "href": "//www.holodilnik.ru/repair/printerss/",
+            "title": "Принтеры",
+            "items": []
+        },
+        {
+            "id": "440",
+            "style": "prop_network_devices",
+            "href": "//www.holodilnik.ru/repair/network_devices/",
+            "title": "Сетевое и коммуникационное оборудование",
+            "items": []
+        },
+        {
+            "id": "544",
+            "style": "prop_nbags",
+            "href": "//www.holodilnik.ru/repair/nbags/",
+            "title": "Сумки для ноутбуков",
+            "items": []
+        },
+        {
+            "id": "242",
+            "style": "prop_videocameras",
+            "href": "//www.holodilnik.ru/repair/videocameras/",
+            "title": "Цифровые видеокамеры",
+            "items": []
+        },
+        {
+            "id": "331",
+            "style": "prop_digital_dictophones",
+            "href": "//www.holodilnik.ru/repair/digital_dictophones/",
+            "title": "Цифровые диктофоны",
+            "items": []
+        }
+    ]
+}

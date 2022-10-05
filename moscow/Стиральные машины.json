@@ -1,0 +1,49 @@
+{
+    "id": "140",
+    "tag": "washers",
+    "title": "Стиральные машины",
+    "categories": [
+        {
+            "id": "484",
+            "style": "prop_washing_machines_accessories",
+            "href": "//www.holodilnik.ru/repair/washing_machines_accessories/",
+            "title": "Аксессуары для стиральных машин",
+            "items": []
+        },
+        {
+            "id": "483",
+            "style": "prop_drying_automatic_device_accessories",
+            "href": "//www.holodilnik.ru/repair/drying_automatic_device_accessories/",
+            "title": "Аксессуары для сушильных автоматов",
+            "items": []
+        },
+        {
+            "id": "1403",
+            "style": "prop_activator_washing_machines",
+            "href": "//www.holodilnik.ru/repair/activator_washing_machines/",
+            "title": "Активаторные стиральные машины",
+            "items": []
+        },
+        {
+            "id": "182",
+            "style": "prop_washing_machines",
+            "href": "//www.holodilnik.ru/repair/washing_machines/",
+            "title": "Стиральные машины",
+            "items": []
+        },
+        {
+            "id": "230",
+            "style": "prop_washing_mashines_with_dryer",
+            "href": "//www.holodilnik.ru/repair/washing_mashines_with_dryer/",
+            "title": "Стиральные машины с сушкой",
+            "items": []
+        },
+        {
+            "id": "283",
+            "style": "prop_drying_automatic_device",
+            "href": "//www.holodilnik.ru/repair/drying_automatic_device/",
+            "title": "Сушильные автоматы",
+            "items": []
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": "633",
+    "tag": "smartphones_gadgets",
+    "title": "Смартфоны и гаджеты",
+    "categories": [
+        {
+            "id": "445",
+            "style": "prop_auto_registrators",
+            "href": "//www.holodilnik.ru/repair/auto_registrators/",
+            "title": "Автомобильные видеорегистраторы",
+            "items": []
+        },
+        {
+            "id": "1326",
+            "style": "prop_accessories_for_game_consoles",
+            "href": "//www.holodilnik.ru/repair/accessories_for_game_consoles/",
+            "title": "Аксессуары для игровых приставок",
+            "items": []
+        },
+        {
+            "id": "533",
+            "style": "prop_digital_tech_rechargers",
+            "href": "//www.holodilnik.ru/repair/digital_tech_rechargers/",
+            "title": "Зарядные устройства",
+            "items": []
+        },
+        {
+            "id": "536",
+            "style": "prop_protect_layers",
+            "href": "//www.holodilnik.ru/repair/protect_layers/",
+            "title": "Защитные пленки и стекла",
+            "items": []
+        },
+        {
+            "id": "418",
+            "style": "prop_game_consoles",
+            "href": "//www.holodilnik.ru/repair/game_consoles/",
+            "title": "Игровые приставки",
+            "items": []
+        },
+        {
+            "id": "545",
+            "style": "prop_adapters_wires",
+            "href": "//www.holodilnik.ru/repair/adapters_wires/",
+            "title": "Кабели и переходники",
+            "items": []
+        },
+        {
+            "id": "1158",
+            "style": "prop_mobile_phones",
+            "href": "//www.holodilnik.ru/repair/mobile_phones/",
+            "title": "Мобильные телефоны",
+            "items": []
+        },
+        {
+            "id": "529",
+            "style": "prop_car_holders",
+            "href": "//www.holodilnik.ru/repair/car_holders/",
+            "title": "Подставки и держатели для мобильных устройств",
+            "items": []
+        },
+        {
+            "id": "1302",
+            "style": "prop_straps_for_smart_watces_bracelets",
+            "href": "//www.holodilnik.ru/repair/straps_for_smart_watces_bracelets/",
+            "title": "Ремешки для умных часов и фитнес-трекеров",
+            "items": []
+        },
+        {
+            "id": "419",
+            "style": "prop_smartphones",
+            "href": "//www.holodilnik.ru/repair/smartphones/",
+            "title": "Смартфоны",
+            "items": []
+        },
+        {
+            "id": "556",
+            "style": "prop_smart_watces_bracelets",
+            "href": "//www.holodilnik.ru/repair/smart_watces_bracelets/",
+            "title": "Умные часы (smart) и браслеты",
+            "items": []
+        },
+        {
+            "id": "541",
+            "style": "prop_mobile_phone_covers",
+            "href": "//www.holodilnik.ru/repair/mobile_phone_covers/",
+            "title": "Чехлы для мобильных телефонов",
+            "items": []
+        },
+        {
+            "id": "396",
+            "style": "prop_covers_for_tablets",
+            "href": "//www.holodilnik.ru/repair/covers_for_tablets/",
+            "title": "Чехлы для планшетов",
+            "items": []
+        },
+        {
+            "id": "375",
+            "style": "prop_ebooks",
+            "href": "//www.holodilnik.ru/repair/ebooks/",
+            "title": "Электронные книги",
+            "items": []
+        }
+    ]
+}

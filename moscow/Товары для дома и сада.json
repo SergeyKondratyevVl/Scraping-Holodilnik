@@ -1,0 +1,371 @@
+{
+    "id": "435",
+    "tag": "cottage_repair",
+    "title": "Товары для дома и сада",
+    "categories": [
+        {
+            "id": "970",
+            "style": "prop_adapters_connectors_fittings",
+            "href": "//www.holodilnik.ru/repair/adapters_connectors_fittings/",
+            "title": "Адаптеры, соединители и штуцеры",
+            "items": []
+        },
+        {
+            "id": "516",
+            "style": "prop_accessories_for_garden",
+            "href": "//www.holodilnik.ru/repair/accessories_for_garden/",
+            "title": "Аксессуары для садовой техники и инструментов",
+            "items": []
+        },
+        {
+            "id": "1210",
+            "style": "prop_pool_care_products",
+            "href": "//www.holodilnik.ru/repair/pool_care_products/",
+            "title": "Аксессуары и товары для ухода за бассейном",
+            "items": []
+        },
+        {
+            "id": "906",
+            "style": "prop_verticutters_and_lawnrakers",
+            "href": "//www.holodilnik.ru/repair/verticutters_and_lawnrakers/",
+            "title": "Аэраторы и скарификаторы",
+            "items": []
+        },
+        {
+            "id": "1208",
+            "style": "prop_pools",
+            "href": "//www.holodilnik.ru/repair/pools/",
+            "title": "Бассейны",
+            "items": []
+        },
+        {
+            "id": "437",
+            "style": "prop_petrol_powered_saws",
+            "href": "//www.holodilnik.ru/repair/petrol_powered_saws/",
+            "title": "Бензопилы и бензорезы",
+            "items": []
+        },
+        {
+            "id": "936",
+            "style": "prop_buckets",
+            "href": "//www.holodilnik.ru/repair/buckets/",
+            "title": "Ведра",
+            "items": []
+        },
+        {
+            "id": "587",
+            "style": "prop_forks_and_rakes",
+            "href": "//www.holodilnik.ru/repair/forks_and_rakes/",
+            "title": "Вилы и грабли",
+            "items": []
+        },
+        {
+            "id": "1529",
+            "style": "prop_gas_cylinders_and_accessories",
+            "href": "//www.holodilnik.ru/repair/gas_cylinders_and_accessories/",
+            "title": "Газовые баллоны и аксессуары",
+            "items": []
+        },
+        {
+            "id": "1310",
+            "style": "prop_boards_and_easels",
+            "href": "//www.holodilnik.ru/repair/boards_and_easels/",
+            "title": "Доски и мольберты",
+            "items": []
+        },
+        {
+            "id": "910",
+            "style": "prop_flower_pots",
+            "href": "//www.holodilnik.ru/repair/flower_pots/",
+            "title": "Емкости для растений",
+            "items": []
+        },
+        {
+            "id": "588",
+            "style": "prop_tools_for_soil",
+            "href": "//www.holodilnik.ru/repair/tools_for_soil/",
+            "title": "Инструменты для обработки почвы",
+            "items": []
+        },
+        {
+            "id": "920",
+            "style": "prop_garden_swing",
+            "href": "//www.holodilnik.ru/repair/garden_swing/",
+            "title": "Качели садовые",
+            "items": []
+        },
+        {
+            "id": "438",
+            "style": "prop_lawnmowers_trimmers",
+            "href": "//www.holodilnik.ru/repair/lawnmowers_trimmers/",
+            "title": "Колесные газонокосилки",
+            "items": []
+        },
+        {
+            "id": "918",
+            "style": "prop_office_chairs",
+            "href": "//www.holodilnik.ru/repair/office_chairs/",
+            "title": "Кресла",
+            "items": []
+        },
+        {
+            "id": "447",
+            "style": "prop_cultivators_tillers",
+            "href": "//www.holodilnik.ru/repair/cultivators_tillers/",
+            "title": "Культиваторы и мотоблоки",
+            "items": []
+        },
+        {
+            "id": "448",
+            "style": "prop_cutters",
+            "href": "//www.holodilnik.ru/repair/cutters/",
+            "title": "Кусторезы, сучкорезы, мультирезаки",
+            "items": []
+        },
+        {
+            "id": "671",
+            "style": "prop_kitchen_sinks",
+            "href": "//www.holodilnik.ru/repair/kitchen_sinks/",
+            "title": "Кухонные мойки",
+            "items": []
+        },
+        {
+            "id": "673",
+            "style": "prop_kitchen_taps",
+            "href": "//www.holodilnik.ru/repair/kitchen_taps/",
+            "title": "Кухонные смесители",
+            "items": []
+        },
+        {
+            "id": "795",
+            "style": "prop_bulbs",
+            "href": "//www.holodilnik.ru/repair/bulbs/",
+            "title": "Лампы",
+            "items": []
+        },
+        {
+            "id": "585",
+            "style": "prop_shovels",
+            "href": "//www.holodilnik.ru/repair/shovels/",
+            "title": "Лопаты",
+            "items": []
+        },
+        {
+            "id": "1178",
+            "style": "prop_ceiling_chandeliers",
+            "href": "//www.holodilnik.ru/repair/ceiling_chandeliers/",
+            "title": "Люстры потолочные",
+            "items": []
+        },
+        {
+            "id": "617",
+            "style": "prop_braziers_and_barbecues",
+            "href": "//www.holodilnik.ru/repair/braziers_and_barbecues/",
+            "title": "Мангалы, казаны и тандыры",
+            "items": []
+        },
+        {
+            "id": "1312",
+            "style": "prop_furniture",
+            "href": "//www.holodilnik.ru/repair/furniture/",
+            "title": "Мебель",
+            "items": []
+        },
+        {
+            "id": "930",
+            "style": "prop_furniture_for_cottages",
+            "href": "//www.holodilnik.ru/repair/furniture_for_cottages/",
+            "title": "Мебель для дачи",
+            "items": []
+        },
+        {
+            "id": "267",
+            "style": "prop_miniwashing",
+            "href": "//www.holodilnik.ru/repair/miniwashing/",
+            "title": "Минимойки",
+            "items": []
+        },
+        {
+            "id": "1212",
+            "style": "prop_inflatable_products",
+            "href": "//www.holodilnik.ru/repair/inflatable_products/",
+            "title": "Надувные товары для отдыха",
+            "items": []
+        },
+        {
+            "id": "546",
+            "style": "prop_pumps",
+            "href": "//www.holodilnik.ru/repair/pumps/",
+            "title": "Насосы",
+            "items": []
+        },
+        {
+            "id": "621",
+            "style": "prop_sprayers",
+            "href": "//www.holodilnik.ru/repair/sprayers/",
+            "title": "Опрыскиватели и распылители",
+            "items": []
+        },
+        {
+            "id": "589",
+            "style": "prop_garden_saws",
+            "href": "//www.holodilnik.ru/repair/garden_saws/",
+            "title": "Пилы и ножи",
+            "items": []
+        },
+        {
+            "id": "916",
+            "style": "prop_implements_for_watering",
+            "href": "//www.holodilnik.ru/repair/implements_for_watering/",
+            "title": "Пистолеты и разбрызгиватели",
+            "items": []
+        },
+        {
+            "id": "1113",
+            "style": "prop_interior_items",
+            "href": "//www.holodilnik.ru/repair/interior_items/",
+            "title": "Предметы интерьера",
+            "items": []
+        },
+        {
+            "id": "625",
+            "style": "prop_barbecue_facilities",
+            "href": "//www.holodilnik.ru/repair/barbecue_facilities/",
+            "title": "Приспособления для барбекю и шашлыка",
+            "items": []
+        },
+        {
+            "id": "1093",
+            "style": "prop_devices_for_washing",
+            "href": "//www.holodilnik.ru/repair/devices_for_washing/",
+            "title": "Приспособления для умывания",
+            "items": []
+        },
+        {
+            "id": "1117",
+            "style": "prop_other_furniture",
+            "href": "//www.holodilnik.ru/repair/other_furniture/",
+            "title": "Прочая мебель",
+            "items": []
+        },
+        {
+            "id": "1084",
+            "style": "prop_accessories_for_watering",
+            "href": "//www.holodilnik.ru/repair/accessories_for_watering/",
+            "title": "Прочие принадлежности для полива",
+            "items": []
+        },
+        {
+            "id": "976",
+            "style": "prop_other_accessories_for_garden",
+            "href": "//www.holodilnik.ru/repair/other_accessories_for_garden/",
+            "title": "Прочие садовые принадлежности",
+            "items": []
+        },
+        {
+            "id": "306",
+            "style": "prop_goods__other",
+            "href": "//www.holodilnik.ru/repair/goods__other/",
+            "title": "Прочие товары для дома и сада",
+            "items": []
+        },
+        {
+            "id": "1318",
+            "style": "prop_satchels_backpacks_bags",
+            "href": "//www.holodilnik.ru/repair/satchels_backpacks_bags/",
+            "title": "Ранцы, рюкзаки, сумки",
+            "items": []
+        },
+        {
+            "id": "548",
+            "style": "prop_garden_vacuum_cleaners_blowers",
+            "href": "//www.holodilnik.ru/repair/garden_vacuum_cleaners_blowers/",
+            "title": "Садовые пылесосы и воздуходувки",
+            "items": []
+        },
+        {
+            "id": "1182",
+            "style": "prop_table_lamps",
+            "href": "//www.holodilnik.ru/repair/table_lamps/",
+            "title": "Светильники настольные",
+            "items": []
+        },
+        {
+            "id": "1192",
+            "style": "prop_spotlights",
+            "href": "//www.holodilnik.ru/repair/spotlights/",
+            "title": "Светильники точечные",
+            "items": []
+        },
+        {
+            "id": "586",
+            "style": "prop_pruners_and_loppers",
+            "href": "//www.holodilnik.ru/repair/pruners_and_loppers/",
+            "title": "Секаторы и сучкорезы",
+            "items": []
+        },
+        {
+            "id": "518",
+            "style": "prop_snow_removal_machines",
+            "href": "//www.holodilnik.ru/repair/snow_removal_machines/",
+            "title": "Снегоуборочные машины",
+            "items": []
+        },
+        {
+            "id": "1018",
+            "style": "prop_snow_removing_implements",
+            "href": "//www.holodilnik.ru/repair/snow_removing_implements/",
+            "title": "Снегоуборочный инвентарь",
+            "items": []
+        },
+        {
+            "id": "1101",
+            "style": "prop_chairs",
+            "href": "//www.holodilnik.ru/repair/chairs/",
+            "title": "Стулья",
+            "items": []
+        },
+        {
+            "id": "618",
+            "style": "prop_wheelbarrows",
+            "href": "//www.holodilnik.ru/repair/wheelbarrows/",
+            "title": "Тачки садовые",
+            "items": []
+        },
+        {
+            "id": "584",
+            "style": "prop_axes",
+            "href": "//www.holodilnik.ru/repair/axes/",
+            "title": "Топоры и дровоколы",
+            "items": []
+        },
+        {
+            "id": "1156",
+            "style": "prop_trimmers",
+            "href": "//www.holodilnik.ru/repair/trimmers/",
+            "title": "Триммеры",
+            "items": []
+        },
+        {
+            "id": "1427",
+            "style": "prop_toilet_bowls",
+            "href": "//www.holodilnik.ru/repair/toilet_bowls/",
+            "title": "Унитазы",
+            "items": []
+        },
+        {
+            "id": "1314",
+            "style": "prop_shredders",
+            "href": "//www.holodilnik.ru/repair/shredders/",
+            "title": "Уничтожители бумаги (шредеры)",
+            "items": []
+        },
+        {
+            "id": "620",
+            "style": "prop_garden_hoses",
+            "href": "//www.holodilnik.ru/repair/garden_hoses/",
+            "title": "Шланги садовые",
+            "items": []
+        }
+    ]
+}

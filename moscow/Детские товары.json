@@ -1,0 +1,224 @@
+{
+    "id": "321",
+    "tag": "kids",
+    "title": "Детские товары",
+    "categories": [
+        {
+            "id": "876",
+            "style": "prop_lego",
+            "href": "//www.holodilnik.ru/repair/lego/",
+            "title": "LEGO",
+            "items": []
+        },
+        {
+            "id": "679",
+            "style": "prop_child_car_seats",
+            "href": "//www.holodilnik.ru/repair/child_car_seats/",
+            "title": "Автокресла",
+            "items": []
+        },
+        {
+            "id": "737",
+            "style": "prop_sport_leisure_accessories",
+            "href": "//www.holodilnik.ru/repair/sport_leisure_accessories/",
+            "title": "Аксессуары для спорта и отдыха",
+            "items": []
+        },
+        {
+            "id": "743",
+            "style": "prop_runbikes",
+            "href": "//www.holodilnik.ru/repair/runbikes/",
+            "title": "Беговелы",
+            "items": []
+        },
+        {
+            "id": "636",
+            "style": "prop_baby_monitors",
+            "href": "//www.holodilnik.ru/repair/baby_monitors/",
+            "title": "Видео и радионяни",
+            "items": []
+        },
+        {
+            "id": "749",
+            "style": "prop_bikes_for_children",
+            "href": "//www.holodilnik.ru/repair/bikes_for_children/",
+            "title": "Детские велосипеды и педальные машины",
+            "items": []
+        },
+        {
+            "id": "801",
+            "style": "prop_cribs",
+            "href": "//www.holodilnik.ru/repair/cribs/",
+            "title": "Детские кроватки",
+            "items": []
+        },
+        {
+            "id": "803",
+            "style": "prop_childrens_mattresses",
+            "href": "//www.holodilnik.ru/repair/childrens_mattresses/",
+            "title": "Детские матрасы",
+            "items": []
+        },
+        {
+            "id": "1070",
+            "style": "prop_childrens_watch_with_gps",
+            "href": "//www.holodilnik.ru/repair/childrens_watch_with_gps/",
+            "title": "Детские часы с GPS поиском",
+            "items": []
+        },
+        {
+            "id": "687",
+            "style": "prop_childrens_electronic_scales",
+            "href": "//www.holodilnik.ru/repair/childrens_electronic_scales/",
+            "title": "Детские электронные весы",
+            "items": []
+        },
+        {
+            "id": "853",
+            "style": "prop_interactive_and_educational_toys",
+            "href": "//www.holodilnik.ru/repair/interactive_and_educational_toys/",
+            "title": "Интерактивные и развивающие игрушки",
+            "items": []
+        },
+        {
+            "id": "745",
+            "style": "prop_wheelchairs",
+            "href": "//www.holodilnik.ru/repair/wheelchairs/",
+            "title": "Каталки и самокаты",
+            "items": []
+        },
+        {
+            "id": "677",
+            "style": "prop_baby_buggies",
+            "href": "//www.holodilnik.ru/repair/baby_buggies/",
+            "title": "Коляски",
+            "items": []
+        },
+        {
+            "id": "805",
+            "style": "prop_dolls",
+            "href": "//www.holodilnik.ru/repair/dolls/",
+            "title": "Куклы",
+            "items": []
+        },
+        {
+            "id": "857",
+            "style": "prop_summer_toys",
+            "href": "//www.holodilnik.ru/repair/summer_toys/",
+            "title": "Летние игрушки",
+            "items": []
+        },
+        {
+            "id": "878",
+            "style": "prop_playpens",
+            "href": "//www.holodilnik.ru/repair/playpens/",
+            "title": "Манежи",
+            "items": []
+        },
+        {
+            "id": "1296",
+            "style": "prop_materials_for_creativity",
+            "href": "//www.holodilnik.ru/repair/materials_for_creativity/",
+            "title": "Материалы для творчества",
+            "items": []
+        },
+        {
+            "id": "847",
+            "style": "prop_educational_games",
+            "href": "//www.holodilnik.ru/repair/educational_games/",
+            "title": "Настольные развивающие и обучающие игры",
+            "items": []
+        },
+        {
+            "id": "865",
+            "style": "prop_child_dressers",
+            "href": "//www.holodilnik.ru/repair/child_dressers/",
+            "title": "Пеленальные комоды и столы",
+            "items": []
+        },
+        {
+            "id": "635",
+            "style": "prop_diapers",
+            "href": "//www.holodilnik.ru/repair/diapers/",
+            "title": "Подгузники",
+            "items": []
+        },
+        {
+            "id": "643",
+            "style": "prop_childrens_dishes",
+            "href": "//www.holodilnik.ru/repair/childrens_dishes/",
+            "title": "Посуда для детей",
+            "items": []
+        },
+        {
+            "id": "851",
+            "style": "prop_radiocontrolled_toys",
+            "href": "//www.holodilnik.ru/repair/radiocontrolled_toys/",
+            "title": "Радиоуправляемые игрушки",
+            "items": []
+        },
+        {
+            "id": "811",
+            "style": "prop_snow_cats_and_sled",
+            "href": "//www.holodilnik.ru/repair/snow_cats_and_sled/",
+            "title": "Снегокаты и санки",
+            "items": []
+        },
+        {
+            "id": "1139",
+            "style": "prop_sports_complexes_and_grounds",
+            "href": "//www.holodilnik.ru/repair/sports_complexes_and_grounds/",
+            "title": "Спортивные комплексы и площадки",
+            "items": []
+        },
+        {
+            "id": "638",
+            "style": "prop_children_dishes_heaters",
+            "href": "//www.holodilnik.ru/repair/children_dishes_heaters/",
+            "title": "Стерилизаторы и подогреватели посуды",
+            "items": []
+        },
+        {
+            "id": "717",
+            "style": "prop_chairs_for_feeding",
+            "href": "//www.holodilnik.ru/repair/chairs_for_feeding/",
+            "title": "Стульчики для кормления",
+            "items": []
+        },
+        {
+            "id": "841",
+            "style": "prop_plot_role_playing_games",
+            "href": "//www.holodilnik.ru/repair/plot_role_playing_games/",
+            "title": "Сюжетно-ролевые игры",
+            "items": []
+        },
+        {
+            "id": "843",
+            "style": "prop_transport",
+            "href": "//www.holodilnik.ru/repair/transport/",
+            "title": "Транспорт игрушечный",
+            "items": []
+        },
+        {
+            "id": "723",
+            "style": "prop_walker",
+            "href": "//www.holodilnik.ru/repair/walker/",
+            "title": "Ходунки",
+            "items": []
+        },
+        {
+            "id": "727",
+            "style": "prop_swings_electroswings",
+            "href": "//www.holodilnik.ru/repair/swings_electroswings/",
+            "title": "Электрокачели и качели",
+            "items": []
+        },
+        {
+            "id": "1258",
+            "style": "prop_electrical_appliances_for_baby_food",
+            "href": "//www.holodilnik.ru/repair/electrical_appliances_for_baby_food/",
+            "title": "Электроприборы для приготовления детского питания",
+            "items": []
+        }
+    ]
+}

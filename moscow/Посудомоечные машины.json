@@ -1,0 +1,28 @@
+{
+    "id": "100",
+    "tag": "dishwashers_all",
+    "title": "Посудомоечные машины",
+    "categories": [
+        {
+            "id": "482",
+            "style": "prop_dishwashers_machines_accessories",
+            "href": "//www.holodilnik.ru/repair/dishwashers_machines_accessories/",
+            "title": "Аксессуары для посудомоечных машин",
+            "items": []
+        },
+        {
+            "id": "316",
+            "style": "prop_compact_dishwashers_machines",
+            "href": "//www.holodilnik.ru/repair/compact_dishwashers_machines/",
+            "title": "Компактные посудомоечные машины",
+            "items": []
+        },
+        {
+            "id": "233",
+            "style": "prop_dishwashers_machines",
+            "href": "//www.holodilnik.ru/repair/dishwashers_machines/",
+            "title": "Посудомоечные машины",
+            "items": []
+        }
+    ]
+}

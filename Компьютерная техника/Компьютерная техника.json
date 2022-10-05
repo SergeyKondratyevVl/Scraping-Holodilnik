@@ -1,0 +1,308 @@
+{
+    "moscow_Батарейки, аккумуляторы и зарядные устройства для них": [
+        {
+            "name": "Батарейки FOCUSray CR1225",
+            "url": "https://www.holodilnik.ru/repair/batteries_rechargers/focusray/cr1225_168605/",
+            "old_price": "25",
+            "price": "19"
+        },
+        {
+            "name": "Батарейка FOCUSray SUPER ALKALINE LR03/BL4 4/48/288",
+            "url": "https://www.holodilnik.ru/repair/batteries_rechargers/focusray/super_alkaline_lr03_bl4_4_48_288_148167/",
+            "old_price": "129",
+            "price": "64"
+        },
+        {
+            "name": "Батарея-аккумулятор Pitatel 42T4751 для Lenovo ThinkPad SL410, SL510, T410, T510, W510, E40, E50, E420, E425",
+            "url": "https://www.holodilnik.ru/repair/batteries_rechargers/pitatel/42t4751_dlya_lenovo_thinkpad_163851/",
+            "old_price": "3090",
+            "price": "2008"
+        },
+        {
+            "name": "Тяговый гелевый аккумулятор Rutrike 6-DZF-28 (12V28A/H C3)",
+            "url": "https://www.holodilnik.ru/repair/batteries_rechargers/rutrike/12v28a_h_c3_170075/",
+            "old_price": "5850",
+            "price": "5265"
+        }
+    ],
+    "moscow_Внешние аккумуляторы": [
+        {
+            "name": "Внешний аккумулятор Accesstyle Midnight II Black",
+            "url": "https://www.holodilnik.ru/repair/portable_chargers/accesstyle/midnight_ii_black_167931/",
+            "old_price": "890",
+            "price": "667"
+        },
+        {
+            "name": "Внешний аккумулятор Red Line RP-01 с беспроводной зарядкой (6000 mAh), черный",
+            "url": "https://www.holodilnik.ru/repair/portable_chargers/red_line/rp_01_127713/",
+            "old_price": "1899",
+            "price": "570"
+        }
+    ],
+    "moscow_Внешние жесткие диски (HDD)": [
+        {
+            "name": "Внешний жесткий диск (HDD) Toshiba HDD 2.5'' 1.0Tb Canvio Basics (HDTB410EK3AA) Black",
+            "url": "https://www.holodilnik.ru/repair/external_hdd/toshiba/hdtb410ek3aa_164879/",
+            "old_price": "5990",
+            "price": "4193"
+        },
+        {
+            "name": "Внешний жесткий диск (HDD) Toshiba HDD 2.5'' 1.0Tb Canvio Basics (HDTB410EK3AA) Black",
+            "url": "https://www.holodilnik.ru/repair/external_hdd/toshiba/hdtb410ek3aa_164877/",
+            "old_price": "5990",
+            "price": "4193"
+        },
+        {
+            "name": "Внешний жесткий диск (HDD) Toshiba HDD 2.5'' 1.0Tb Canvio Basics (HDTB410EK3AA) Black",
+            "url": "https://www.holodilnik.ru/repair/external_hdd/toshiba/hdtb410ek3aa_163473/",
+            "old_price": "5990",
+            "price": "3893"
+        },
+        {
+            "name": "Внешний жесткий диск (HDD) Toshiba HDD 2.5'' 1.0Tb Canvio Basics (HDTB410EK3AA) Black",
+            "url": "https://www.holodilnik.ru/repair/external_hdd/toshiba/hdtb410ek3aa_164881/",
+            "old_price": "5990",
+            "price": "4193"
+        }
+    ],
+    "moscow_Графические планшеты": [
+        {
+            "name": "Графический планшет Wacom Intuos S (CTL-4100K-N) черный",
+            "url": "https://www.holodilnik.ru/repair/graphics_tablets/wacom/ctl_4100k_n_164265/",
+            "old_price": "5990",
+            "price": "4792"
+        }
+    ],
+    "moscow_ЖК мониторы": [
+        {
+            "name": "ЖК монитор Xiaomi Mi 23.8 Desktop Monitor 1C (BHR4510GL)",
+            "url": "https://www.holodilnik.ru/repair/lcd_monitors/xiaomi/bhr4510gl_166645/",
+            "old_price": "12990",
+            "price": "10392"
+        },
+        {
+            "name": "ЖК монитор Samsung C27R500FHI черный",
+            "url": "https://www.holodilnik.ru/repair/lcd_monitors/samsung/c27r500fhi_chernyy_160685/",
+            "old_price": "19990",
+            "price": "13993"
+        },
+        {
+            "name": "ЖК монитор Xiaomi Mi 2K Gaming monitor 27” (BHR5039GL)",
+            "url": "https://www.holodilnik.ru/repair/lcd_monitors/xiaomi/mi_2k_gaming_monitor_27_bhr5039gl_169879/",
+            "old_price": "31490",
+            "price": "29915"
+        }
+    ],
+    "moscow_Коврики для мышек": [
+        {
+            "name": "Коврик для мышек Ritmix MPD-020 Table 220x180x3 мм",
+            "url": "https://www.holodilnik.ru/repair/mouse_pads/ritmix/mpd_020_table_163847/",
+            "old_price": "60",
+            "price": "36"
+        },
+        {
+            "name": "Коврик для мышек Sharkoon 1337 RGB V2 360",
+            "url": "https://www.holodilnik.ru/repair/mouse_pads/sharkoon/1337_rgb_v2_360_163879/",
+            "old_price": "2050",
+            "price": "1332"
+        }
+    ],
+    "moscow_Компьютерные гарнитуры": [
+        {
+            "name": "Компьютерная гарнитура A4Tech HU-9 черный 1.8м накладные",
+            "url": "https://www.holodilnik.ru/repair/computer_headsets/a4tech/hu_9_chernyy_1_8m_nakladnye_165623/",
+            "old_price": "899",
+            "price": "719"
+        },
+        {
+            "name": "Компьютерная гарнитура A4Tech HU-9 черный 1.8м накладные",
+            "url": "https://www.holodilnik.ru/repair/computer_headsets/a4tech/hu_9_chernyy_1_8m_nakladnye_165625/",
+            "old_price": "899",
+            "price": "719"
+        },
+        {
+            "name": "Гарнитура для ПК Sennheiser PC 5 508328",
+            "url": "https://www.holodilnik.ru/repair/computer_headsets/sennheiser/pc_5_508328_158887/",
+            "old_price": "2290",
+            "price": "1488"
+        },
+        {
+            "name": "Гарнитура игровая проводная SteelSeries Arctis 1, проводные, черный",
+            "url": "https://www.holodilnik.ru/repair/computer_headsets/steelseries/arctis_1_provodnye_chernyy_156539/",
+            "old_price": "5490",
+            "price": "3294"
+        }
+    ],
+    "moscow_Компьютерные мыши и клавиатуры": [
+        {
+            "name": "Беспроводная мышь Oklick 605SW черный",
+            "url": "https://www.holodilnik.ru/repair/mouse_keyboards/oklick/605sw_chernyy_165649/",
+            "old_price": "360",
+            "price": "252"
+        },
+        {
+            "name": "Игровая клавиатура Defender Werewolf GK-120 DL RU 45120",
+            "url": "https://www.holodilnik.ru/repair/mouse_keyboards/defender/werewolf_gk_120dl_ru_45120_159365/",
+            "old_price": "970",
+            "price": "533"
+        },
+        {
+            "name": "Клавиатура мышь Oklick 280M клав:черный мышь:черный USB беспроводная Multimedia",
+            "url": "https://www.holodilnik.ru/repair/mouse_keyboards/oklick/280m_klav_chernyy_mysh_chernyy_usb_besprovodnaya_multimedia_168425/",
+            "old_price": "1340",
+            "price": "938"
+        },
+        {
+            "name": "Игровая проводная клавиатура AULA F2066",
+            "url": "https://www.holodilnik.ru/repair/mouse_keyboards/aula/f2066_168805/",
+            "old_price": "1599",
+            "price": "1199"
+        },
+        {
+            "name": "Проводная игровая клавиатура Redragon Skanda Pro RU,RGB, 26 anti-ghost keys",
+            "url": "https://www.holodilnik.ru/repair/mouse_keyboards/redragon/skanda_pro_151277/",
+            "old_price": "2150",
+            "price": "1075"
+        },
+        {
+            "name": "Клавиатура + мышь Logitech Wireless Combo MK 330 (920-003995)",
+            "url": "https://www.holodilnik.ru/repair/mouse_keyboards/logitech/wireless_combo_mk330_920_003995_168387/",
+            "old_price": "2579",
+            "price": "1934"
+        },
+        {
+            "name": "Мышь игровая проводная A4Tech Bloody V8 черный",
+            "url": "https://www.holodilnik.ru/repair/mouse_keyboards/a4tech/bloody_v8_chernyy_142419/",
+            "old_price": "2840",
+            "price": "994"
+        },
+        {
+            "name": "Проводная игровая мышь SteelSeries Aerox 3, черный",
+            "url": "https://www.holodilnik.ru/repair/mouse_keyboards/steelseries/aerox_3_chernyy_135881/",
+            "old_price": "7430",
+            "price": "2972"
+        },
+        {
+            "name": "Клавиатура беспроводная Keychron K3, Blue Switch",
+            "url": "https://www.holodilnik.ru/repair/mouse_keyboards/keychron/k3d2_168419/",
+            "old_price": "9750",
+            "price": "6825"
+        }
+    ],
+    "moscow_МФУ": [
+        {
+            "name": "МФУ струйный Epson L8180 (C11CJ21403) черный",
+            "url": "https://www.holodilnik.ru/repair/mfus/epson/l8180_c11cj21403_chernyy_142929/",
+            "old_price": "86199",
+            "price": "51719"
+        }
+    ],
+    "moscow_Ноутбуки": [
+        {
+            "name": "Ноутбук Honor MagicBook Pro HBB-WAH9PHNL Cеребристый (53011MAL)",
+            "url": "https://www.holodilnik.ru/repair/notebook/honor/magicbook_pro_hbb_wah9phnl_cerebristyy_53011mal_168061/",
+            "old_price": "91899",
+            "price": "78114"
+        }
+    ],
+    "moscow_Принтеры": [
+        {
+            "name": "Принтер Epson EcoTank L121 (C11CD76414)",
+            "url": "https://www.holodilnik.ru/repair/printerss/epson/c11cd76414_145743/",
+            "old_price": "26299",
+            "price": "15779"
+        }
+    ],
+    "moscow_Сетевое и коммуникационное оборудование": [
+        {
+            "name": "Беспроводной маршрутизатор Xiaomi Mi WiFi Range Extender AC1200 (DVB4270GL)",
+            "url": "https://www.holodilnik.ru/repair/network_devices/xiaomi/mi_wifi_range_extender_ac1200_dvb4270gl_168405/",
+            "old_price": "1980",
+            "price": "1683"
+        },
+        {
+            "name": "Mesh система Xiaomi Mesh System AX3000 (1-pack)",
+            "url": "https://www.holodilnik.ru/repair/network_devices/xiaomi/ax3000_1_pack_168639/",
+            "old_price": "5490",
+            "price": "4392"
+        }
+    ],
+    "moscow_Сумки для ноутбуков": [
+        {
+            "name": "Сумка Belkin 14'' черная (B2B075-C00)",
+            "url": "https://www.holodilnik.ru/repair/nbags/belkin/b2b075_c00_169105/",
+            "old_price": "1540",
+            "price": "1078"
+        },
+        {
+            "name": "Сумка для ноутбука Tucano Smilza Supeslim Bag 13''-14'', цвет синий",
+            "url": "https://www.holodilnik.ru/repair/nbags/tucano/bsm1314_b_144265/",
+            "old_price": "2080",
+            "price": "520"
+        },
+        {
+            "name": "Сумка Ninetygo Unisex URBAN.EUSING messenger bag черный",
+            "url": "https://www.holodilnik.ru/repair/nbags/ninetygo/unisex_urban_eusing_messenger_bag_chernyy_141609/",
+            "old_price": "4330",
+            "price": "1082"
+        }
+    ],
+    "moscow_Цифровые видеокамеры": [
+        {
+            "name": "Экшн-камера X-TRY XTC196 EMR 4K WiFi",
+            "url": "https://www.holodilnik.ru/repair/videocameras/x_try/xtc196_emr_4k_wifi_128097/",
+            "old_price": "6299",
+            "price": "2835"
+        },
+        {
+            "name": "Экшн камера-очки X-TRY XTG 204 HD, ВТ, МР3 IGUANA POLARIZED",
+            "url": "https://www.holodilnik.ru/repair/videocameras/x_try/xtg204_hd_vt_mr3_iguana_polarized_134087/",
+            "old_price": "7299",
+            "price": "3285"
+        },
+        {
+            "name": "Цифровая камера X-TRY XTC390 EMR REAL 4K WiFi STANDART",
+            "url": "https://www.holodilnik.ru/repair/videocameras/x_try/xtc390_emr_real_4k_wifi_standart_156399/",
+            "old_price": "8541",
+            "price": "5125"
+        },
+        {
+            "name": "Экшн камера-очки X-TRY XTG370 UHD 4K, 64 GB ORIGINAL BLACK",
+            "url": "https://www.holodilnik.ru/repair/videocameras/x_try/xtg370_164483/",
+            "old_price": "10490",
+            "price": "8392"
+        },
+        {
+            "name": "Экшн-камера X-TRY XTC404 REAL 4K/60FPS WDR WiFi MAXIMAL",
+            "url": "https://www.holodilnik.ru/repair/videocameras/x_try/xtc404_real_4k_60fps_wdr_wifi_maximal_161749/",
+            "old_price": "10990",
+            "price": "8242"
+        },
+        {
+            "name": "Экшн-камера Pivothead PH 213 DURANGO BRONZE",
+            "url": "https://www.holodilnik.ru/repair/videocameras/pivothead/ph_213_113002/",
+            "old_price": "11199",
+            "price": "4480"
+        },
+        {
+            "name": "Экшн-камера X-TRY XTC500 GIMBAL REAL 4K/60FPS WDR WiFi STANDART",
+            "url": "https://www.holodilnik.ru/repair/videocameras/x_try/xtc500_gimbal_real_4k_60fps_wdr_wifi_standart_129817/",
+            "old_price": "12990",
+            "price": "5845"
+        }
+    ],
+    "moscow_Цифровые диктофоны": [
+        {
+            "name": "Цифровой диктофон Ritmix RR-120 4GB black",
+            "url": "https://www.holodilnik.ru/repair/digital_dictophones/ritmix/rr_120_4gb_black_165659/",
+            "old_price": "1899",
+            "price": "1519"
+        },
+        {
+            "name": "Цифровой диктофон Ritmix RR-145 4GB black",
+            "url": "https://www.holodilnik.ru/repair/digital_dictophones/ritmix/rr_145_4gb_black_147425/",
+            "old_price": "2790",
+            "price": "1813"
+        }
+    ]
+}
